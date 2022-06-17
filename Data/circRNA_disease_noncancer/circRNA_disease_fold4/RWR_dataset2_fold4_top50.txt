@@ -1,0 +1,52 @@
+(176,26) hsa_circ6510-1 coronary artery disease 0.0002563202612891062
+(152,37) hsa_circ_0001859 rheumatoid arthritis 0.0002844297426518336
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.00011832879255823114
+(217,3) circrna_0005941 acne 0.00031338377706271396
+(306,38) circ_stk24 temporal lobe epilepsy 0.0003116786707541737
+(95,37) hsa_circrna_100257 rheumatoid arthritis 0.0002844297426518336
+(292,46) hsa_circ_0012919 systemic lupus erythematous 0.0003017884742260906
+(148,27) hsa_circ_0019069 diabetes retinopathy 0.0002861391510763188
+(39,37) hsa_circ_0083964 rheumatoid arthritis 0.0002844297426518336
+(182,67) circular rna wdr77 cardiovascular disease 0.0005821423019173438
+(65,17) hsa_circrna_000598 osteoarthritis 0.00029733446129630097
+(294,41) hsa_circ_0000681 pulmonary tuberculosis 0.000266187634949328
+(315,16) hsa_circ_0054211 multiple system atrophy 0.0003586862942346324
+(42,69) hsa_circ_0050898 moyamoya disease 0.0002427881445152845
+(312,35) hsa_circ_082319 primary biliary cholangitis 0.000898154263033988
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.0002844297426518336
+(47,9) circ_0002198 ovarian endometriosis 0.00026998483644016954
+(48,37) hsa_circ_0064996 rheumatoid arthritis 0.0002844297426518336
+(210,51) hsa_circ_0088452 active pulmonary tuberculosis 0.0003067880855994713
+(227,4) circznf609 vascular endothelial dysfunction 0.0
+(296,27) hsa_circ_0005015 diabetes retinopathy 0.0002861391510763188
+(79,67) circsmarca5 cardiovascular disease 0.0005821423019173438
+(203,23) hsa_circ_0043497 tuberculosis 0.00033644370601087185
+(88,26) hsa_circ_0032970 coronary artery disease 0.0002563202612891062
+(151,38) circ_stk17a temporal lobe epilepsy 0.0003116786707541737
+(253,78) circrna_104670 intervertebral disc degeneration 0.00027495506013142784
+(133,0) hsa_circrna_100192 diabetic retinopathy 0.0003231570068350446
+(241,15) circfoxo3 cardiac senescence 0.0
+(57,21) hsa_circ_002082 hepatic steatosis 0.00028669683215077425
+(107,42) hsa_circ_0003575 atherosclerosis 0.0009711917285453213
+(168,30) circrna_11109 rheumatic heart disease 0.000916795544694234
+(115,29) hsa_circ_0070963 liver fibrosis 0.00041363364965455075
+(238,61) cdkn2b-as1 inflammatory bowel disease 0.0
+(159,25) hsa_circrna_104964 active tuberculosis 0.00031694103089456636
+(140,26) hsa_circ_0057576 coronary artery disease 0.0002563202612891062
+(127,27) hsa_circ_0081108 diabetes retinopathy 0.0002861391510763188
+(103,9) circ_0004712 ovarian endometriosis 0.00026998483644016954
+(284,38) circ_vps37c temporal lobe epilepsy 0.0003116786707541737
+(295,52) hsa_circ_0037909 essential hypertension 0.00034717669538085683
+(273,40) circrna6783 herpes simplex virus 1 infection 0.000916795544694233
+(280,35) hsa_circ_087631 primary biliary cholangitis 0.000898154263033988
+(111,6) cttn4 heart failure 0.0002919664512155216
+(252,22) hsa_circrna_004183 repeated implantation failure 0.0003269140997913909
+(319,46) hsa_circ_0092374 systemic lupus erythematous 0.0003017884742260906
+(326,27) hsa_circ_0068489 diabetes retinopathy 0.0002861391510763188
+(155,62) hsa_circ_0001187 acute myeloid leukemia 0.0003245572017340065
+(243,7) hsa_circ_0005402 multiple sclerosis 0.00028233278351147054
+(211,2) hsa_circrna_100782 pre-eclampsia 0.0002610712179584761
+(226,8) hsa_circ_0005620 major depressive disorder 0.00027903286174726683
+(15,9) hsa_circ_0023115 ovarian endometriosis 0.00026998483644016954
+(35,27) hsa_circ_0072410 diabetes retinopathy 0.0002861391510763188
+(30,38) circ_cct4 temporal lobe epilepsy 0.0003116786707541737

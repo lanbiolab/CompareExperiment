@@ -1,0 +1,54 @@
+(149,31) hsa_circ_0000615 hirschsprung disease 4.181854426860809e-05
+(115,56) hsa_circ_0070963 irradiated hepatic stellate cell 1.649443879723549e-05
+(52,19) hsa_circ_0001819 lupus nephritis 2.516606990247965e-05
+(76,25) hsa_circrna_102101 active tuberculosis 7.069036066532135e-05
+(125,62) hsa_circ_0001947 acute myeloid leukemia 0.00010098952148109675
+(282,37) circrna_104871 rheumatoid arthritis 0.0006154360175132751
+(199,38) circ_efcab2 temporal lobe epilepsy 5.8739699609577655e-05
+(50,46) hsa_circ_0000479 systemic lupus erythematous 0.00027694620788097386
+(51,78) hsa_circ_0008305 intervertebral disc degeneration 3.932827701792121e-05
+(293,23) hsa_circ_0030569 tuberculosis 3.887201994657516e-05
+(299,46) hsa_circ_0046599 systemic lupus erythematous 0.00027694620788097386
+(295,52) hsa_circ_0037909 essential hypertension 9.231540262699128e-05
+(63,8) hsa_circ_0056048 major depressive disorder 2.876138791907579e-05
+(59,27) hsa_circ_0041796 diabetes retinopathy 0.0001047896021278575
+(83,38) circ_usp9y temporal lobe epilepsy 5.8739699609577655e-05
+(204,46) hsa_circ_0001866 systemic lupus erythematous 0.00027694620788097386
+(252,22) hsa_circrna_004183 repeated implantation failure 6.574449837207794e-05
+(67,78) hsa_circ_0091702 intervertebral disc degeneration 3.932827701792121e-05
+(155,62) hsa_circ_0001187 acute myeloid leukemia 0.00010098952148109675
+(287,3) circrna_0018168 acne 4.83410581946373e-05
+(307,28) hsa_circ_0007788 postmenopausal osteoporosis 5.7437109574675565e-05
+(237,39) circrna.1030 gestational diabetes mellitus 2.8559078148100525e-05
+(202,46) hsa_circ_0021549 systemic lupus erythematous 0.00027694620788097386
+(236,37) hsa_circ_0004712 rheumatoid arthritis 0.0006154360175132751
+(201,6) cttn5 heart failure 4.042926505208015e-05
+(120,47) hsa_circ_0005267 primary great saphenous vein varicosities 5.3297276422381405e-05
+(234,62) hsa_circ_0004136 acute myeloid leukemia 0.00010098952148109675
+(93,24) circ_092520 crohn disease 5.1752284169197086e-05
+(231,37) hsa_circ_104871 rheumatoid arthritis 0.0006154360175132751
+(226,8) hsa_circ_0005620 major depressive disorder 2.876138791907579e-05
+(206,10) hsa_circ_102470 leukoaraiosis 3.435919992625714e-05
+(151,38) circ_stk17a temporal lobe epilepsy 5.8739699609577655e-05
+(188,2) hsa_circ_0036877 pre-eclampsia 2.633501347154379e-05
+(244,0) hsa_circrna_104387 diabetic retinopathy 5.10064447298646e-05
+(203,23) hsa_circ_0043497 tuberculosis 3.887201994657516e-05
+(243,7) hsa_circ_0005402 multiple sclerosis 7.637518607079983e-05
+(328,25) hsa_circrna_102296 active tuberculosis 7.069036066532135e-05
+(265,24) circ_004662 crohn disease 5.1752284169197086e-05
+(195,62) hsa_circ_0017446 acute myeloid leukemia 0.00010098952148109675
+(274,25) hsa_circrna_029965 active tuberculosis 7.069036066532135e-05
+(178,37) hsa_circrna_102034 rheumatoid arthritis 0.0006154360175132751
+(232,41) circrna_09585 pulmonary tuberculosis 8.528652804670856e-05
+(129,0) hsa_circrna_100750 diabetic retinopathy 5.10064447298646e-05
+(160,41) hsa_circ_0002362 pulmonary tuberculosis 8.528652804670856e-05
+(311,46) hsa_circ_0049224 systemic lupus erythematous 0.00027694620788097386
+(37,27) hsa_circ_0081162 diabetes retinopathy 0.0001047896021278575
+(327,48) hsa_circrna_005019 t2dm with depression 1.9139575120061635e-05
+(36,72) hsa_circ_0029067 facet joint osteoarthritis 5.7437109574675565e-05
+(309,37) hsa_circrna_103503 rheumatoid arthritis 0.0006154360175132751
+(310,27) hsa_circ_0030055 diabetes retinopathy 0.0001047896021278575
+(132,46) hsa_circ_0008615 systemic lupus erythematous 0.00027694620788097386
+(46,48) hsa_circrna_015115 t2dm with depression 1.9139575120061635e-05
+(146,43) hsa_circ_0068087 type 2 diabetes mellitus 3.508211150765419e-05
+(263,31) circ-prkci hirschsprung disease 4.181854426860809e-05

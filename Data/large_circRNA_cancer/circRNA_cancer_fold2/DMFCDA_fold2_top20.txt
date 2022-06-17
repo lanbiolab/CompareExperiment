@@ -1,0 +1,8 @@
+(259,27) hsa_circ_0001946 hepatocellular carcinoma 0.060865044593811035
+(78,12) circ-itch colorectal cancer 0.8241655826568604
+(229,48) hsa_circ_0000977 pancreatic ductal adenocarcinoma 3.5762786865234375e-07
+(121,43) circ-prmt5 non-small cell lung cancer 0.2175239622592926
+(78,46) circ-itch ovarian cancer 0.324099063873291
+(121,2) circ-prmt5 bladder cancer 0.9061378240585327
+(129,43) circpvt1 non-small cell lung cancer 0.2175239622592926
+(151,33) circrna_100290 laryngeal squamous cell carcinoma 0.0010119378566741943

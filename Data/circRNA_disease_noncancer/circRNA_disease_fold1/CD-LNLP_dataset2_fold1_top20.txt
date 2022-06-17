@@ -1,0 +1,19 @@
+(1,29) hsa_circ_0072765 liver fibrosis 0.00020011381173514693
+(213,43) hsa_circ_0054633 type 2 diabetes mellitus 3.524101872960329e-05
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 0.000180909005725204
+(13,29) hsa_circ_0013255 liver fibrosis 0.00020011381173514693
+(219,36) cznf609 lymphangiogenesis 0.0
+(303,37) hsa_circrna_103047 rheumatoid arthritis 0.0013146035562681857
+(242,26) hsa_circ_0113854 coronary artery disease 0.0008788763620212162
+(214,5) circibtk systemic lupus erythematosus 0.0
+(170,16) hsa_circ_0032891 multiple system atrophy 0.00034546948866953447
+(265,24) circ_004662 crohn disease 0.0006072767505676429
+(69,37) hsa_circ_0044235 rheumatoid arthritis 0.0013146035562681857
+(297,62) hsa_circ_0049657 acute myeloid leukemia 0.003238829407972704
+(157,2) circ_101222 pre-eclampsia 0.000892598806937616
+(188,2) hsa_circ_0036877 pre-eclampsia 0.000892598806937616
+(27,17) hsa_circ_0023404 osteoarthritis 0.0005164486103402472
+(254,28) hsa_circ_0006801 postmenopausal osteoporosis 0.00026731602591820045
+(295,52) hsa_circ_0037909 essential hypertension 0.0003958332889389304
+(126,3) circrna_0084927 acne 0.0004820015242881778
+(317,47) hsa_circ_0000378 primary great saphenous vein varicosities 0.0004567975420078748

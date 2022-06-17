@@ -1,0 +1,12 @@
+(24,23) hsa_circ_0001204 tuberculosis 0.000896780998940967
+(1,29) hsa_circ_0072765 liver fibrosis 0.0001722481001501193
+(213,43) hsa_circ_0054633 type 2 diabetes mellitus 0.00020711286300018137
+(164,46) hsa_circ_0045272 systemic lupus erythematous 0.0003006573768744976
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 0.0001452702580925077
+(207,7) hsa_circ_0000519 multiple sclerosis 0.0008988892697576075
+(197,26) hsa_circrna11806-28 coronary artery disease 0.0007968758620132797
+(196,24) hsa-circrna-102685 crohn disease 0.0008960104005061052
+(186,26) hsa_circ_0006323 coronary artery disease 0.0007968758620132797
+(178,37) hsa_circrna_102034 rheumatoid arthritis 0.0009357412561502574
+(171,26) hsa_circ_0082824 coronary artery disease 0.0007968758620132797
+(172,8) hsa_circ_0089310 major depressive disorder 0.0009012209219934167

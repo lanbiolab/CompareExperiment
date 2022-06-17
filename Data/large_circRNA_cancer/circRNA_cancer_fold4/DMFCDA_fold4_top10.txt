@@ -1,0 +1,3 @@
+(413,43) hsa_circ_0074027 non-small cell lung cancer 0.881752610206604
+(191,20) circzfr gastric cancer 0.7935135364532471
+(121,12) circ-prmt5 colorectal cancer 0.9080227613449097

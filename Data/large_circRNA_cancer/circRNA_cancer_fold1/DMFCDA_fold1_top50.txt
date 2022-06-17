@@ -1,0 +1,5 @@
+(121,27) circ-prmt5 hepatocellular carcinoma 0.009736746549606323
+(74,31) circhipk3 kidney clear cell carcinoma 0.007930606603622437
+(18,60) circagfg1 triple-negative breast cancer 0.03336137533187866
+(302,4) hsa_circ_0007534 breast cancer 0.8614131212234497
+(74,42) circhipk3 nasopharyngeal carcinoma 0.30276960134506226

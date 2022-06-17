@@ -1,0 +1,15 @@
+(324,39) hsa_circrna_0054633 gestational diabetes mellitus 6.925527513026021e-05
+(267,25) hsa_circrna_104296 active tuberculosis 0.0015823512447527349
+(146,57) hsa_circ_0068087 diabetes mellitus 1.4933122546070572e-06
+(7,69) hsa_circ_0067209 moyamoya disease 0.0004560735392514172
+(74,69) hsa_circrna_103343 moyamoya disease 0.0004560735392514172
+(137,70) hsa_circ_0002062 chronic thromboembolic pulmonary hypertension 0.00015305418342955547
+(119,0) hsa_circrna_404457 diabetic retinopathy 0.0014384456396672907
+(286,25) hsa_circrna_009024 active tuberculosis 0.0015823512447527349
+(276,52) hsa_circ_0002161 essential hypertension 0.0002669894283347108
+(304,8) hsa_circ_0001410 major depressive disorder 0.0003277929570132469
+(0,51) hsa_circ_0005836 active pulmonary tuberculosis 0.0003768859880276077
+(87,62) hsa_circ_0008078 acute myeloid leukemia 0.003342369027261665
+(24,23) hsa_circ_0001204 tuberculosis 0.0008649547564036154
+(200,30) circrna_11017 rheumatic heart disease 1.9780120277947087e-05
+(194,35) hsa_circ_407176 primary biliary cholangitis 0.0004892230045638633

@@ -1,0 +1,4 @@
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.0
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 0.0
+(150,19) circhla-c lupus nephritis 0.0
+(162,9) hsa_circ_0026143 ovarian endometriosis 0.0

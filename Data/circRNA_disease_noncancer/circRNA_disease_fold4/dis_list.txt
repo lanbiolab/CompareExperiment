@@ -1,0 +1,79 @@
+diabetic retinopathy 0
+malignant melanoma 1
+pre-eclampsia 2
+acne 3
+vascular endothelial dysfunction 4
+systemic lupus erythematosus 5
+heart failure 6
+multiple sclerosis 7
+major depressive disorder 8
+ovarian endometriosis 9
+leukoaraiosis 10
+retinal neurodegeneration 11
+acute ischemic stroke 12
+alcoholic liver disease 13
+glucocorticoid-induced osteonecrosis of femoral head 14
+cardiac senescence 15
+multiple system atrophy 16
+osteoarthritis 17
+metabolism-related diseases 18
+lupus nephritis 19
+proliferative vitreo retinopathy 20
+hepatic steatosis 21
+repeated implantation failure 22
+tuberculosis 23
+crohn disease 24
+active tuberculosis 25
+coronary artery disease 26
+diabetes retinopathy 27
+postmenopausal osteoporosis 28
+liver fibrosis 29
+rheumatic heart disease 30
+hirschsprung disease 31
+immunosenescence 32
+acute lymphoblastic leukemia 33
+asthma 34
+primary biliary cholangitis 35
+lymphangiogenesis 36
+rheumatoid arthritis 37
+temporal lobe epilepsy 38
+gestational diabetes mellitus 39
+herpes simplex virus 1 infection 40
+pulmonary tuberculosis 41
+atherosclerosis 42
+type 2 diabetes mellitus 43
+diabetic cataract 44
+ebola virus disease 45
+systemic lupus erythematous 46
+primary great saphenous vein varicosities 47
+t2dm with depression 48
+carotid plaque rupture 49
+chronic myeloid leukemia 50
+active pulmonary tuberculosis 51
+essential hypertension 52
+alzheimer 53
+hypertension 54
+hematopoiesis 55
+irradiated hepatic stellate cell 56
+diabetes mellitus 57
+coronary atherosclerotic heart disease 58
+hepatocellular steatosis 59
+diabetic nephropathy 60
+inflammatory bowel disease 61
+acute myeloid leukemia 62
+hypertensive 63
+myocardial infarction 64
+cardiac fibrosis 65
+silicosis 66
+cardiovascular disease 67
+sciatic nerve injury 68
+moyamoya disease 69
+chronic thromboembolic pulmonary hypertension 70
+ischemic stroke 71
+facet joint osteoarthritis 72
+kawasaki disease 73
+aortic aneurysm 74
+osteoporosis 75
+myocardial senescence 76
+leukemia 77
+intervertebral disc degeneration 78

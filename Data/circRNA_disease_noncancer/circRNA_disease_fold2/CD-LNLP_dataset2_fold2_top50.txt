@@ -1,0 +1,37 @@
+(324,39) hsa_circrna_0054633 gestational diabetes mellitus 6.925527513026021e-05
+(267,25) hsa_circrna_104296 active tuberculosis 0.0015823512447527349
+(146,57) hsa_circ_0068087 diabetes mellitus 1.4933122546070572e-06
+(7,69) hsa_circ_0067209 moyamoya disease 0.0004560735392514172
+(74,69) hsa_circrna_103343 moyamoya disease 0.0004560735392514172
+(137,70) hsa_circ_0002062 chronic thromboembolic pulmonary hypertension 0.00015305418342955547
+(119,0) hsa_circrna_404457 diabetic retinopathy 0.0014384456396672907
+(286,25) hsa_circrna_009024 active tuberculosis 0.0015823512447527349
+(276,52) hsa_circ_0002161 essential hypertension 0.0002669894283347108
+(304,8) hsa_circ_0001410 major depressive disorder 0.0003277929570132469
+(0,51) hsa_circ_0005836 active pulmonary tuberculosis 0.0003768859880276077
+(87,62) hsa_circ_0008078 acute myeloid leukemia 0.003342369027261665
+(24,23) hsa_circ_0001204 tuberculosis 0.0008649547564036154
+(200,30) circrna_11017 rheumatic heart disease 1.9780120277947087e-05
+(194,35) hsa_circ_407176 primary biliary cholangitis 0.0004892230045638633
+(76,25) hsa_circrna_102101 active tuberculosis 0.0015823512447527349
+(96,2) hsa_circ_0005442 pre-eclampsia 0.000281849934838803
+(241,15) circfoxo3 cardiac senescence 0.0
+(100,6) cznf292 heart failure 0.00020234023800289413
+(127,27) hsa_circ_0081108 diabetes retinopathy 0.000722592673186858
+(140,26) hsa_circ_0057576 coronary artery disease 0.0007121929206920226
+(9,37) circrna_003524 rheumatoid arthritis 0.005191459161598641
+(328,25) hsa_circrna_102296 active tuberculosis 0.0015823512447527349
+(260,72) hsa_circ_0063781 facet joint osteoarthritis 0.000543544063475129
+(290,0) hsa_circrna_063981 diabetic retinopathy 0.0014384456396672907
+(57,21) hsa_circ_002082 hepatic steatosis 0.0010301170968420076
+(37,27) hsa_circ_0081162 diabetes retinopathy 0.000722592673186858
+(270,37) hsa_circrna_104871 rheumatoid arthritis 0.005191459161598641
+(31,23) hsa_circ_0030045 tuberculosis 0.0008649547564036154
+(174,37) circrna_092516 rheumatoid arthritis 0.005191459161598641
+(182,67) circular rna wdr77 cardiovascular disease 0.0003548216942970342
+(169,43) hsa_circ_0018508 type 2 diabetes mellitus 0.00023064152914693988
+(121,6) cttn2 heart failure 0.00020234023800289413
+(123,9) hsa_circ_0062557 ovarian endometriosis 0.0013371914254953906
+(45,21) hsa_circ_014724 hepatic steatosis 0.0010301170968420076
+(312,35) hsa_circ_082319 primary biliary cholangitis 0.0004892230045638633
+(218,26) hsa_circ_0082081 coronary artery disease 0.0007121929206920226

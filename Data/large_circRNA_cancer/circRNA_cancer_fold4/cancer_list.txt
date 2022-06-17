@@ -1,0 +1,62 @@
+acute myeloid leukemia 0
+acute promyelocytic leukemia 1
+bladder cancer 2
+bladder urothelial carcinoma 3
+breast cancer 4
+castration-resistant prostate cancer 5
+cervical cancer 6
+cholangiocarcinoma 7
+chronic lymphocytic leukemia 8
+chronic myeloid leukemia 9
+clear cell renal cell carcinoma 10
+colon cancer 11
+colorectal cancer 12
+cutaneous squamous cell carcinoma 13
+diffuse large b-cell lymphoma 14
+endometrial cancer 15
+epithelial ovarian cancer 16
+esophageal cancer 17
+esophageal squamous cell cancer 18
+gallbladder cancer 19
+gastric cancer 20
+glioblastoma 21
+glioblastoma multiforme 22
+glioma 23
+head and neck squamous cell carcinoma 24
+hepatic carcinoma 25
+hepatoblastoma 26
+hepatocellular carcinoma 27
+hypopharyngeal cancer 28
+infantile hemangioma 29
+intrahepatic cholangiocarcinoma 30
+kidney clear cell carcinoma 31
+laryngeal cancer 32
+laryngeal squamous cell carcinoma 33
+liver cancer 34
+lung adenocarcinoma 35
+lung cancer 36
+lung squamous cell carcinoma 37
+malignant melanoma 38
+melanoma 39
+mucoepidermoid carcinoma 40
+multiple myeloma 41
+nasopharyngeal carcinoma 42
+non-small cell lung cancer 43
+oral squamous cell carcinoma 44
+osteosarcoma 45
+ovarian cancer 46
+pancreatic cancer 47
+pancreatic ductal adenocarcinoma 48
+papillary thyroid cancer 49
+prostate cancer 50
+rectal cancer 51
+renal carcinoma 52
+renal cell carcinoma 53
+renal clear cell carcinoma 54
+retinoblastoma 55
+salivary adenoid cystic carcinoma 56
+t-cell lymphoblastic lymphoma 57
+thyroid cancer 58
+tongue squamous cell carcinoma 59
+triple-negative breast cancer 60
+urothelial carcinoma of bladder 61

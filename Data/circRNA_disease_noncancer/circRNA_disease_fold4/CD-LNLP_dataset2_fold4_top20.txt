@@ -1,0 +1,17 @@
+(75,29) hsa_circ_0054345 liver fibrosis 0.0003547250489692416
+(48,37) hsa_circ_0064996 rheumatoid arthritis 0.0014640522594614176
+(146,43) hsa_circ_0068087 type 2 diabetes mellitus 6.290971592104787e-05
+(13,56) hsa_circ_0013255 irradiated hepatic stellate cell 6.445038364628939e-05
+(320,35) hsa_circ_406329 primary biliary cholangitis 0.00034972939169998154
+(78,62) hsa_circ_0075001 acute myeloid leukemia 0.0025928592784969745
+(209,54) hsa-circ-0008139 hypertension 6.125785490284606e-05
+(197,43) hsa_circrna11806-28 type 2 diabetes mellitus 6.290971592104787e-05
+(125,62) hsa_circ_0001947 acute myeloid leukemia 0.0025928592784969745
+(59,27) hsa_circ_0041796 diabetes retinopathy 0.0004989209834128367
+(141,62) circpan3 acute myeloid leukemia 0.0025928592784969745
+(224,77) hsa_circ_0004277 leukemia 0.0
+(280,35) hsa_circ_087631 primary biliary cholangitis 0.00034972939169998154
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.0014640522594614176
+(115,29) hsa_circ_0070963 liver fibrosis 0.0003547250489692416
+(152,37) hsa_circ_0001859 rheumatoid arthritis 0.0014640522594614176
+(28,27) hsa_circ_0026372 diabetes retinopathy 0.0004989209834128367

@@ -1,0 +1,11 @@
+(20,29) hsa_circ_0071410 liver fibrosis 3.396665304899216e-05
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 2.486432632431388e-05
+(149,64) hsa_circ_0000615 myocardial infarction 3.2232414931058884e-06
+(115,29) hsa_circ_0070963 liver fibrosis 3.396665304899216e-05
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 2.486432632431388e-05
+(108,51) hsa_circ_0023956 active pulmonary tuberculosis 5.336223095655441e-05
+(140,26) hsa_circ_0057576 coronary artery disease 0.000320808644592762
+(254,28) hsa_circ_0006801 postmenopausal osteoporosis 5.567660289816559e-05
+(53,46) hsa_circ_0003146 systemic lupus erythematous 0.00011117802634835244
+(85,7) hsa_circ_0035560 multiple sclerosis 4.897836335003376e-05
+(308,62) hsa_circ_0035381 acute myeloid leukemia 0.00031165762022137644

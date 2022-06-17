@@ -1,0 +1,17 @@
+(0,51) hsa_circ_0005836 active pulmonary tuberculosis 3.5060182213783267e-05
+(177,72) hsa_circ_0053743 facet joint osteoarthritis 5.5484827328473334e-05
+(169,43) hsa_circ_0018508 type 2 diabetes mellitus 0.0001090540274977684
+(166,26) hsa_circ_0083357 coronary artery disease 0.00011553294664481655
+(159,25) hsa_circrna_104964 active tuberculosis 0.0002420052766799927
+(153,37) hsa_circ_003524 rheumatoid arthritis 0.00016473709097481333
+(135,37) hsa_circ_101873 rheumatoid arthritis 0.00016473709097481333
+(131,23) hsa_circ_0001417 tuberculosis 0.00012100263833999634
+(122,17) hsa_circ_0032131 osteoarthritis 5.919757373631001e-05
+(119,0) hsa_circrna_404457 diabetic retinopathy 0.00018234136998653412
+(116,37) hsa_circ_0052012 rheumatoid arthritis 0.00016473709097481333
+(110,41) circrna_13478 pulmonary tuberculosis 7.339235848048703e-05
+(109,51) hsa_circ_0078768 active pulmonary tuberculosis 3.5060182213783267e-05
+(104,24) circ_102610 crohn disease 4.673221111297608e-05
+(102,46) hsa_circ_0040705 systemic lupus erythematous 0.00011998910373076797
+(95,37) hsa_circrna_100257 rheumatoid arthritis 0.00016473709097481333
+(94,35) hsa_circ_102485 primary biliary cholangitis 3.76298843882978e-05

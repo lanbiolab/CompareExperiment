@@ -1,0 +1,9 @@
+(13,29) hsa_circ_0013255 liver fibrosis 2.3573637008666992e-05
+(315,16) hsa_circ_0054211 multiple system atrophy 0.00042888522148132324
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 0.7313277721405029
+(84,31) cir-ccdc66 hirschsprung disease 0.7812004089355469
+(147,54) hsa-circ-0005870 hypertension 0.9132407903671265
+(100,6) cznf292 heart failure 0.0
+(118,16) hsa_circ_0108308 multiple system atrophy 0.00042888522148132324
+(131,23) hsa_circ_0001417 tuberculosis 5.960464477539063e-08
+(133,0) hsa_circrna_100192 diabetic retinopathy 0.7389578223228455

@@ -1,0 +1,38 @@
+(121,27) circ-prmt5 hepatocellular carcinoma 0.009736746549606323
+(74,31) circhipk3 kidney clear cell carcinoma 0.007930606603622437
+(18,60) circagfg1 triple-negative breast cancer 0.03336137533187866
+(302,4) hsa_circ_0007534 breast cancer 0.8614131212234497
+(74,42) circhipk3 nasopharyngeal carcinoma 0.30276960134506226
+(129,17) circpvt1 esophageal cancer 0.0
+(441,12) hsa_circ_0136666 colorectal cancer 0.962059736251831
+(465,50) hsa_circrna_101996 prostate cancer 0.2921733856201172
+(512,49) hsa_circrna_061346 papillary thyroid cancer 0.7176023125648499
+(410,4) hsa_circ_0072995 breast cancer 0.8614131212234497
+(74,36) circhipk3 lung cancer 8.243322372436523e-05
+(92,21) circmto1 glioblastoma 0.06739827990531921
+(83,45) circlarp4 osteosarcoma 0.0
+(276,49) hsa_circ_0004458 papillary thyroid cancer 0.7176023125648499
+(396,12) hsa_circ_0067835 colorectal cancer 0.962059736251831
+(182,4) circ-ube2d2 breast cancer 0.8614131212234497
+(399,4) hsa_circ_0068033 breast cancer 0.8614131212234497
+(142,4) circrna_000911 breast cancer 0.8614131212234497
+(375,12) hsa_circ_0053277 colorectal cancer 0.962059736251831
+(68,36) circgfra1 lung cancer 8.243322372436523e-05
+(73,27) hsa_circ_0000284 hepatocellular carcinoma 0.009736746549606323
+(64,49) circ-foxm1 papillary thyroid cancer 0.7176023125648499
+(309,28) hsa_circ_0008287 hypopharyngeal cancer 0.0
+(305,4) hsa_circ_0008039 breast cancer 0.8614131212234497
+(120,27) circ-prkci hepatocellular carcinoma 0.009736746549606323
+(65,2) circ-foxo3 bladder cancer 0.23788541555404663
+(80,4) circkdm4c breast cancer 0.8614131212234497
+(308,19) hsa_circ_0008234 gallbladder cancer 0.00019936914031859487
+(504,29) hsa_circrna_001654 infantile hemangioma 0.0
+(347,38) hsa_circ_0025039 malignant melanoma 0.0
+(282,12) hsa_circ_0005100 colorectal cancer 0.962059736251831
+(103,12) circ-nsd2 colorectal cancer 0.962059736251831
+(92,2) circmto1 bladder cancer 0.23788541555404663
+(79,12) circitga7 colorectal cancer 0.962059736251831
+(58,45) circfat1 osteosarcoma 0.0
+(236,50) hsa_circ_0001206 prostate cancer 0.2921733856201172
+(3,45) circ_ankib1 osteosarcoma 0.0
+(4,45) circ_arf3 osteosarcoma 0.0

@@ -1,0 +1,3 @@
+(52,46) circepsti1 ovarian cancer 0.004214777611196041
+(78,60) circ-itch triple-negative breast cancer 0.12975084781646729
+(73,43) hsa_circ_0000284 non-small cell lung cancer 0.0

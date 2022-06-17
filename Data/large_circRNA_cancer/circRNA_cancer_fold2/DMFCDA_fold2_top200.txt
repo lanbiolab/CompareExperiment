@@ -1,0 +1,52 @@
+(259,27) hsa_circ_0001946 hepatocellular carcinoma 0.060865044593811035
+(78,12) circ-itch colorectal cancer 0.8241655826568604
+(229,48) hsa_circ_0000977 pancreatic ductal adenocarcinoma 3.5762786865234375e-07
+(121,43) circ-prmt5 non-small cell lung cancer 0.2175239622592926
+(78,46) circ-itch ovarian cancer 0.324099063873291
+(121,2) circ-prmt5 bladder cancer 0.9061378240585327
+(129,43) circpvt1 non-small cell lung cancer 0.2175239622592926
+(151,33) circrna_100290 laryngeal squamous cell carcinoma 0.0010119378566741943
+(221,12) hsa_circ_0000523 colorectal cancer 0.8241655826568604
+(292,35) hsa_circ_0006427 lung adenocarcinoma 1.9222497940063477e-05
+(92,50) circmto1 prostate cancer 0.0
+(187,46) circwhsc1 ovarian cancer 0.324099063873291
+(247,27) hsa_circ_0001649 hepatocellular carcinoma 0.060865044593811035
+(165,60) circsept9 triple-negative breast cancer 1.2814998626708984e-06
+(302,6) hsa_circ_0007534 cervical cancer 0.00011688470840454102
+(227,35) hsa_circ_0000792 lung adenocarcinoma 1.9222497940063477e-05
+(494,12) hsa_circrna_105055 colorectal cancer 0.8241655826568604
+(284,7) hsa_circ_0005230 cholangiocarcinoma 0.0
+(2,45) cdr1as osteosarcoma 0.6686017513275146
+(42,46) circ-cspp1 ovarian cancer 0.324099063873291
+(19,53) circ-akt3 renal cell carcinoma 0.0
+(1,12) cbl.11 colorectal cancer 0.8241655826568604
+(493,12) hsa_circrna_102761 colorectal cancer 0.8241655826568604
+(7,50) circ_slc19a1 prostate cancer 0.0
+(394,50) hsa_circ_0062019 prostate cancer 0.0
+(174,60) circtada2a-e6 triple-negative breast cancer 1.2814998626708984e-06
+(31,36) circ-banp lung cancer 0.11835804581642151
+(275,46) hsa_circ_0004390 ovarian cancer 0.324099063873291
+(511,49) hsa_circrna_046843 papillary thyroid cancer 0.07392603158950806
+(92,20) circmto1 gastric cancer 0.0035791397094726562
+(467,36) hsa_circrna_103809 lung cancer 0.11835804581642151
+(97,45) circnasp osteosarcoma 0.6686017513275146
+(267,60) hsa_circ_0002453 triple-negative breast cancer 1.2814998626708984e-06
+(27,6) circ-atp8a2 cervical cancer 0.00011688470840454102
+(498,13) hsa_circrna_100834 cutaneous squamous cell carcinoma 0.0
+(48,4) circehmt1 breast cancer 1.6897916793823242e-05
+(344,6) hsa_circ_0023404 cervical cancer 0.00011688470840454102
+(450,34) hsa_circ_100395 liver cancer 0.0
+(479,45) hsa_circ_0056288 osteosarcoma 0.6686017513275146
+(374,4) hsa_circ_0052112 breast cancer 1.6897916793823242e-05
+(237,11) hsa_circ_0001313 colon cancer 0.0
+(355,6) hsa_circ_0033550 cervical cancer 0.00011688470840454102
+(462,13) hsa_circrna_100833 cutaneous squamous cell carcinoma 0.0
+(41,6) circclk3 cervical cancer 0.00011688470840454102
+(477,17) hsa_circ_0000554 esophageal cancer 0.0
+(343,33) hsa_circ_0023303 laryngeal squamous cell carcinoma 0.0010119378566741943
+(460,50) hsa_circrna_091420 prostate cancer 0.0
+(69,50) circgucy1a2 prostate cancer 0.0
+(464,50) hsa_circrna_101981 prostate cancer 0.0
+(140,6) circrna_000284 cervical cancer 0.00011688470840454102
+(316,45) hsa_circ_0008792 osteosarcoma 0.6686017513275146
+(21,0) circ-anapc7 acute myeloid leukemia 0.0

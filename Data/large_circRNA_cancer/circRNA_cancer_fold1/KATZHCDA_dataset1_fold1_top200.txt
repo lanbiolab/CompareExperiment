@@ -1,0 +1,94 @@
+(337,2) hsa_circ_0018069 bladder cancer 0.010223784030191382
+(74,34) circhipk3 liver cancer 0.0001616996377706528
+(380,50) hsa_circ_0057558 prostate cancer 0.000508424223376278
+(167,27) circslc3a2 hepatocellular carcinoma 0.0015540081245824695
+(395,43) hsa_circ_0062389 non-small cell lung cancer 0.00034757700433074205
+(212,6) hsa_circ_0000263 cervical cancer 0.0005903175053346786
+(172,23) circsmo742 glioma 0.00042620831852777883
+(404,2) hsa_circ_0071662 bladder cancer 0.010223784030191382
+(414,23) hsa_circ_0074362 glioma 0.00042620831852777883
+(405,43) hsa_circ_0072083 non-small cell lung cancer 0.00034757700433074205
+(205,2) hsa_circ_0000144 bladder cancer 0.010223784030191382
+(80,4) circkdm4c breast cancer 0.00033396254450140077
+(472,36) hsa_circrna_103595 lung cancer 0.00012467078576387395
+(311,44) hsa_circ_0008309 oral squamous cell carcinoma 4.563272030245571e-05
+(435,44) hsa_circ_009755 oral squamous cell carcinoma 4.563272030245571e-05
+(62,2) circfndc3b bladder cancer 0.010223784030191382
+(482,4) hsa_circ_0001982 breast cancer 0.00033396254450140077
+(436,47) hsa_circ_0099999 pancreatic cancer 7.359085267466981e-05
+(60,43) circfgfr1 non-small cell lung cancer 0.00034757700433074205
+(279,20) hsa_circ_0004928 gastric cancer 0.0006150118711422693
+(430,27) hsa_circ_0091581 hepatocellular carcinoma 0.0015540081245824695
+(340,35) hsa_circ_0020732 lung adenocarcinoma 0.00016073515433818103
+(233,4) hsa_circ_0001098 breast cancer 0.00033396254450140077
+(489,12) hsa_circ_0020397 colorectal cancer 0.0007760213005516562
+(278,45) hsa_circ_0004846 osteosarcoma 0.000200412822412909
+(56,46) circ-fam53b ovarian cancer 5.259984973818064e-05
+(179,27) circtrim33-12 hepatocellular carcinoma 0.0015540081245824695
+(289,47) hsa_circ_0006215 pancreatic cancer 7.359085267466981e-05
+(124,27) circptgr1 hepatocellular carcinoma 0.0015540081245824695
+(362,33) hsa_circ_0042666 laryngeal squamous cell carcinoma 5.619468955555931e-05
+(166,20) circ-sfmbt2 gastric cancer 0.0006150118711422693
+(135,2) circrgnef bladder cancer 0.010223784030191382
+(101,2) circnr3c1 bladder cancer 0.010223784030191382
+(371,45) hsa_circ_0051079 osteosarcoma 0.000200412822412909
+(207,23) hsa_circ_0000177 glioma 0.00042620831852777883
+(106,43) circp4hb non-small cell lung cancer 0.00034757700433074205
+(443,2) hsa_circ_0137606 bladder cancer 0.010223784030191382
+(373,27) hsa_circ_0051443 hepatocellular carcinoma 0.0015540081245824695
+(447,2) hsa_circ_100242 bladder cancer 0.010223784030191382
+(134,20) circrbms3 gastric cancer 0.0006150118711422693
+(334,27) hsa_circ_0016788 hepatocellular carcinoma 0.0015540081245824695
+(287,11) hsa_circ_0005963 colon cancer 8.728169973473997e-05
+(265,12) hsa_circ_0002211 colorectal cancer 0.0007760213005516562
+(143,17) circrna_001275 esophageal cancer 3.263945204089396e-05
+(312,20) hsa_circ_0008365 gastric cancer 0.0006150118711422693
+(382,20) hsa_circ_0058092 gastric cancer 0.0006150118711422693
+(98,58) circnek6 thyroid cancer 0.00011288067214190961
+(234,45) hsa_circ_0001105 osteosarcoma 0.000200412822412909
+(483,2) hsa_circ_0002768 bladder cancer 0.010223784030191382
+(221,12) hsa_circ_0000523 colorectal cancer 0.0007760213005516562
+(111,20) circpdss1 gastric cancer 0.0006150118711422693
+(342,23) hsa_circ_002136 glioma 0.00042620831852777883
+(28,44) circatrnl1 oral squamous cell carcinoma 4.563272030245571e-05
+(451,27) hsa_circ_101280 hepatocellular carcinoma 0.0015540081245824695
+(12,35) circabcc4 lung adenocarcinoma 0.00016073515433818103
+(291,50) hsa_circ_0006404 prostate cancer 0.000508424223376278
+(257,20) hsa_circ_0001897 gastric cancer 0.0006150118711422693
+(21,0) circ-anapc7 acute myeloid leukemia 4.4282788503915075e-05
+(494,12) hsa_circrna_105055 colorectal cancer 0.0007760213005516562
+(485,27) hsa_circ_0005986 hepatocellular carcinoma 0.0015540081245824695
+(299,4) hsa_circ_0007255 breast cancer 0.00033396254450140077
+(12,50) circabcc4 prostate cancer 0.000508424223376278
+(261,44) hsa_circ_0001971 oral squamous cell carcinoma 4.563272030245571e-05
+(24,48) circ-ash2l pancreatic ductal adenocarcinoma 4.971042610704899e-05
+(27,6) circ-atp8a2 cervical cancer 0.0005903175053346786
+(305,4) hsa_circ_0008039 breast cancer 0.00033396254450140077
+(14,4) circacap2 breast cancer 0.00033396254450140077
+(503,27) hsa_circ_0103809 hepatocellular carcinoma 0.0015540081245824695
+(316,45) hsa_circ_0008792 osteosarcoma 0.000200412822412909
+(41,6) circclk3 cervical cancer 0.0005903175053346786
+(32,43) circbirc6 non-small cell lung cancer 0.00034757700433074205
+(154,27) circrna_101505 hepatocellular carcinoma 0.0015540081245824695
+(6,45) circ_orc2 osteosarcoma 0.000200412822412909
+(460,50) hsa_circrna_091420 prostate cancer 0.000508424223376278
+(474,45) hsa_circ_0092509 osteosarcoma 0.000200412822412909
+(439,4) hsa_circ_0103552 breast cancer 0.00033396254450140077
+(161,35) circrnf13 lung adenocarcinoma 0.00016073515433818103
+(471,34) hsa_circ_0007915 liver cancer 0.0001616996377706528
+(58,45) circfat1 osteosarcoma 0.000200412822412909
+(457,48) hsa_circrna_0007334 pancreatic ductal adenocarcinoma 4.971042610704899e-05
+(473,27) hsa_circrna_0007874 hepatocellular carcinoma 0.0015540081245824695
+(333,43) hsa_circ_0016760 non-small cell lung cancer 0.00034757700433074205
+(461,44) hsa_circrna_100533 oral squamous cell carcinoma 4.563272030245571e-05
+(34,27) circc3p1 hepatocellular carcinoma 0.0015540081245824695
+(50,20) circ-eif4g3 gastric cancer 0.0006150118711422693
+(358,23) hsa_circ_0037251 glioma 0.00042620831852777883
+(126,2) circptpra bladder cancer 0.010223784030191382
+(365,33) hsa_circ_0044520 laryngeal squamous cell carcinoma 5.619468955555931e-05
+(162,42) circrpms1 nasopharyngeal carcinoma 3.5402352053779396e-05
+(219,24) hsa_circ_0000495 head and neck squamous cell carcinoma 3.7002032995224e-05
+(93,39) circmyc melanoma 2.9078211635351183e-05
+(120,35) circ-prkci lung adenocarcinoma 0.00016073515433818103
+(498,13) hsa_circrna_100834 cutaneous squamous cell carcinoma 1.502520376816392e-05
+(151,33) circrna_100290 laryngeal squamous cell carcinoma 5.619468955555931e-05

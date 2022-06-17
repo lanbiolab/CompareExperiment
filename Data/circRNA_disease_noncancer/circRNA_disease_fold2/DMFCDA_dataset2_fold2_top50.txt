@@ -1,0 +1,12 @@
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.0
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 0.0
+(150,19) circhla-c lupus nephritis 0.0
+(162,9) hsa_circ_0026143 ovarian endometriosis 0.0
+(148,27) hsa_circ_0019069 diabetes retinopathy 7.426738739013672e-05
+(127,27) hsa_circ_0081108 diabetes retinopathy 7.426738739013672e-05
+(155,62) hsa_circ_0001187 acute myeloid leukemia 0.0014142394065856934
+(310,27) hsa_circ_0030055 diabetes retinopathy 7.426738739013672e-05
+(195,62) hsa_circ_0017446 acute myeloid leukemia 0.0014142394065856934
+(326,27) hsa_circ_0068489 diabetes retinopathy 7.426738739013672e-05
+(308,62) hsa_circ_0035381 acute myeloid leukemia 0.0014142394065856934
+(297,62) hsa_circ_0049657 acute myeloid leukemia 0.0014142394065856934

@@ -1,0 +1,24 @@
+(225,3) circrna_0086376 acne 3.5060182213783267e-05
+(1,29) hsa_circ_0072765 liver fibrosis 3.396665304899216e-05
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 2.4417220521718264e-05
+(126,3) circrna_0084927 acne 3.5060182213783267e-05
+(314,27) hsa_circ_0087215 diabetes retinopathy 0.00010202700197696687
+(2,29) hsa_circ_0061893 liver fibrosis 3.396665304899216e-05
+(20,56) hsa_circ_0071410 irradiated hepatic stellate cell 2.4417220521718264e-05
+(105,0) hsa_circrna_406918 diabetic retinopathy 4.923168616369367e-05
+(313,37) hsa_circrna_092516 rheumatoid arthritis 0.0002013304394145962
+(266,17) hsa_circrna_101975 osteoarthritis 0.00012100263833999634
+(197,26) hsa_circrna11806-28 coronary artery disease 9.194488441571594e-05
+(280,35) hsa_circ_087631 primary biliary cholangitis 5.567660289816559e-05
+(285,0) hsa_circrna_103410 diabetic retinopathy 4.923168616369367e-05
+(41,26) hsa_circ_0068942 coronary artery disease 9.194488441571594e-05
+(45,21) hsa_circ_014724 hepatic steatosis 4.757346156984568e-05
+(42,69) hsa_circ_0050898 moyamoya disease 8.237322886125185e-05
+(60,17) hsa_circ_0005105 osteoarthritis 0.00012100263833999634
+(92,37) hsa_circ_0032683 rheumatoid arthritis 0.0002013304394145962
+(147,54) hsa-circ-0005870 hypertension 0.0104
+(260,72) hsa_circ_0063781 facet joint osteoarthritis 3.796983137726784e-05
+(156,72) hsa_circ_0087537 facet joint osteoarthritis 3.796983137726784e-05
+(242,26) hsa_circ_0113854 coronary artery disease 9.194488441571594e-05
+(198,28) hsa_circ_0028882 postmenopausal osteoporosis 4.678090875968337e-05
+(87,62) hsa_circ_0008078 acute myeloid leukemia 0.00010585045292973519

@@ -1,0 +1,4 @@
+(257,7) hsa_circ_0001400 multiple sclerosis 0.0
+(256,2) circrna-0001855 pre-eclampsia 0.012187868356704712
+(93,24) circ_092520 crohn disease 0.4196644127368927
+(172,8) hsa_circ_0089310 major depressive disorder 0.0

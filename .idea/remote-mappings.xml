@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@0b620deb-a396-4d94-b842-bce2595c6961" />
+        <remote-mappings server-id="python@sftp://lanwei@1.185.74.121:22/g0/lanwei/anaconda3/envs/CompareExperiment/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/g0/lanwei/code/CompareExperiment" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

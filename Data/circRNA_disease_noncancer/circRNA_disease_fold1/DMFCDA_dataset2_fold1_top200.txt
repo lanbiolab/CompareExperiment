@@ -1,0 +1,57 @@
+(257,7) hsa_circ_0001400 multiple sclerosis 0.0
+(256,2) circrna-0001855 pre-eclampsia 0.012187868356704712
+(93,24) circ_092520 crohn disease 0.4196644127368927
+(172,8) hsa_circ_0089310 major depressive disorder 0.0
+(203,23) hsa_circ_0043497 tuberculosis 0.002539336681365967
+(103,9) circ_0004712 ovarian endometriosis 0.06469959020614624
+(96,2) hsa_circ_0005442 pre-eclampsia 0.012187868356704712
+(90,2) hsa_circ_0029601 pre-eclampsia 0.012187868356704712
+(126,3) circrna_0084927 acne 0.7357238531112671
+(225,3) circrna_0086376 acne 0.7357238531112671
+(94,35) hsa_circ_102485 primary biliary cholangitis 0.0
+(149,19) hsa_circ_0000615 lupus nephritis 0.008735865354537964
+(6,41) hsa_circ_0002908 pulmonary tuberculosis 0.504346489906311
+(34,39) circrna.22054 gestational diabetes mellitus 0.0
+(121,6) cttn2 heart failure 0.0019999444484710693
+(160,41) hsa_circ_0002362 pulmonary tuberculosis 0.504346489906311
+(196,24) hsa-circrna-102685 crohn disease 0.4196644127368927
+(313,37) hsa_circrna_092516 rheumatoid arthritis 0.13231506943702698
+(261,78) hsa_circ_0080210 intervertebral disc degeneration 0.0
+(220,67) circslc8a1 cardiovascular disease 5.334615707397461e-06
+(231,37) hsa_circ_104871 rheumatoid arthritis 0.13231506943702698
+(294,41) hsa_circ_0000681 pulmonary tuberculosis 0.504346489906311
+(211,2) hsa_circrna_100782 pre-eclampsia 0.012187868356704712
+(13,56) hsa_circ_0013255 irradiated hepatic stellate cell 0.0
+(63,8) hsa_circ_0056048 major depressive disorder 0.0
+(252,22) hsa_circrna_004183 repeated implantation failure 0.11499851942062378
+(44,41) hsa_circ_0063179 pulmonary tuberculosis 0.504346489906311
+(113,32) hsa_circ_0100783 immunosenescence 0.0002453923225402832
+(289,22) hsa_circ_0006935 repeated implantation failure 0.11499851942062378
+(185,37) circrna_101873 rheumatoid arthritis 0.13231506943702698
+(58,3) circrna_0001073 acne 0.7357238531112671
+(306,38) circ_stk24 temporal lobe epilepsy 0.910469651222229
+(43,22) hsa_circrna_104854 repeated implantation failure 0.11499851942062378
+(20,29) hsa_circ_0071410 liver fibrosis 1.4901161193847656e-07
+(137,70) hsa_circ_0002062 chronic thromboembolic pulmonary hypertension 0.00022369623184204102
+(219,36) cznf609 lymphangiogenesis 0.0
+(15,9) hsa_circ_0023115 ovarian endometriosis 0.06469959020614624
+(244,0) hsa_circrna_104387 diabetic retinopathy 0.0
+(309,37) hsa_circrna_103503 rheumatoid arthritis 0.13231506943702698
+(60,17) hsa_circ_0005105 osteoarthritis 0.8919548988342285
+(298,52) hsa_circ_0126991 essential hypertension 0.8059723377227783
+(259,17) hsa_circ_0045714 osteoarthritis 0.8919548988342285
+(180,26) hsa_circ_0124644 coronary artery disease 2.384185791015625e-07
+(321,34) hsa_circ_0005519 asthma 0.0
+(277,27) hsa_circ_0057093 diabetes retinopathy 0.0
+(290,0) hsa_circrna_063981 diabetic retinopathy 0.0
+(260,72) hsa_circ_0063781 facet joint osteoarthritis 0.0
+(41,26) hsa_circ_0068942 coronary artery disease 2.384185791015625e-07
+(242,26) hsa_circ_0113854 coronary artery disease 2.384185791015625e-07
+(247,11) czranb1 retinal neurodegeneration 0.32116320729255676
+(263,31) circ-prkci hirschsprung disease 0.0
+(301,26) hsa_circ_0089378 coronary artery disease 2.384185791015625e-07
+(255,28) hsa_circ_0003391 postmenopausal osteoporosis 0.0
+(140,26) hsa_circ_0057576 coronary artery disease 2.384185791015625e-07
+(62,14) circusp45 glucocorticoid-induced osteonecrosis of femoral head 8.642673492431641e-07
+(169,43) hsa_circ_0018508 type 2 diabetes mellitus 0.0010278820991516113
+(279,62) circ-anapc7 acute myeloid leukemia 1.9371509552001953e-06

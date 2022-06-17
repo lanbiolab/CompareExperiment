@@ -1,0 +1,10 @@
+(160,4) circrna-cer breast cancer 0.0002802100977045484
+(306,20) hsa_circ_0008106 gastric cancer 0.0015050795964521968
+(171,43) circsmarca5 non-small cell lung cancer 0.0008443205865361961
+(92,53) circmto1 renal cell carcinoma 8.769557178020477e-05
+(469,2) circctdp1 bladder cancer 0.010208788052940508
+(104,21) circnt5e glioblastoma 7.86366930231452e-05
+(76,47) circ-iars pancreatic cancer 0.00010094851485569052
+(428,27) hsa_circ_0091570 hepatocellular carcinoma 0.0006526580151330563
+(85,50) circlmtk2 prostate cancer 0.0001939293836381694
+(442,12) hsa_circ_0137008 colorectal cancer 0.00011133388487396588

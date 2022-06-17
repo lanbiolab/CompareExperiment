@@ -1,0 +1,62 @@
+(2,29) hsa_circ_0061893 liver fibrosis 0.0001401514072050545
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 8.235905600239116e-05
+(71,19) hsa_circ_0000175 lupus nephritis 2.8893696150599436e-05
+(197,26) hsa_circrna11806-28 coronary artery disease 0.0007028563092912228
+(277,27) hsa_circ_0057093 diabetes retinopathy 0.0007078754472848157
+(213,57) hsa_circ_0054633 diabetes mellitus 4.685354768714489e-06
+(217,3) circrna_0005941 acne 0.0004081821923378006
+(236,37) hsa_circ_0004712 rheumatoid arthritis 0.001431057393438109
+(114,10) hsa_circ_102533 leukoaraiosis 0.00038021555197020646
+(30,38) circ_cct4 temporal lobe epilepsy 0.0006051833173997923
+(16,40) circrna7231 herpes simplex virus 1 infection 0.0006185561362967951
+(185,37) circrna_101873 rheumatoid arthritis 0.001431057393438109
+(105,0) hsa_circrna_406918 diabetic retinopathy 0.0004992572126518854
+(195,62) hsa_circ_0017446 acute myeloid leukemia 0.0019445243093222351
+(8,26) hsa_circ_0054537 coronary artery disease 0.0007028563092912228
+(36,72) hsa_circ_0029067 facet joint osteoarthritis 0.0004790251230297716
+(101,8) hsa_circ_0001907 major depressive disorder 0.0012707245136248403
+(103,9) circ_0004712 ovarian endometriosis 0.0005140024579936205
+(65,17) hsa_circrna_000598 osteoarthritis 0.0005515901034921895
+(151,38) circ_stk17a temporal lobe epilepsy 0.0006051833173997923
+(161,24) circ_103546 crohn disease 0.0006639706942480877
+(210,51) hsa_circ_0088452 active pulmonary tuberculosis 0.0005835340718677123
+(6,41) hsa_circ_0002908 pulmonary tuberculosis 0.0017770713575049398
+(173,70) hsa_circ_0022342 chronic thromboembolic pulmonary hypertension 0.00011520948339507455
+(224,62) hsa_circ_0004277 acute myeloid leukemia 0.0019445243093222351
+(138,47) hsa_circ_0003171 primary great saphenous vein varicosities 0.0004145831064204689
+(289,22) hsa_circ_0006935 repeated implantation failure 0.00113996616430554
+(180,26) hsa_circ_0124644 coronary artery disease 0.0007028563092912228
+(82,17) hsa_circrna_103387 osteoarthritis 0.0005515901034921895
+(92,37) hsa_circ_0032683 rheumatoid arthritis 0.001431057393438109
+(234,62) hsa_circ_0004136 acute myeloid leukemia 0.0019445243093222351
+(257,7) hsa_circ_0001400 multiple sclerosis 0.0005592476849438406
+(201,6) cttn5 heart failure 0.0013224924624237187
+(175,62) hsa_circ_0058058 acute myeloid leukemia 0.0019445243093222351
+(282,37) circrna_104871 rheumatoid arthritis 0.001431057393438109
+(135,37) hsa_circ_101873 rheumatoid arthritis 0.001431057393438109
+(285,0) hsa_circrna_103410 diabetic retinopathy 0.0004992572126518854
+(52,19) hsa_circ_0001819 lupus nephritis 2.8893696150599436e-05
+(110,41) circrna_13478 pulmonary tuberculosis 0.0017770713575049398
+(327,48) hsa_circrna_005019 t2dm with depression 0.0001819101390823075
+(268,21) hsa_circ_004121 hepatic steatosis 0.0005434193138545785
+(314,27) hsa_circ_0087215 diabetes retinopathy 0.0007078754472848157
+(279,62) circ-anapc7 acute myeloid leukemia 0.0019445243093222351
+(281,16) hsa_circ_0038374 multiple system atrophy 0.0006366722857839682
+(53,46) hsa_circ_0003146 systemic lupus erythematous 0.0011827341318180736
+(147,54) hsa-circ-0005870 hypertension 0.9587552704919261
+(240,27) hsa_circ_0026388 diabetes retinopathy 0.0007078754472848157
+(181,69) hsa_circrna_067209 moyamoya disease 0.0005739353017043328
+(90,2) hsa_circ_0029601 pre-eclampsia 0.001188641346984727
+(318,54) hsa_circ_0014243 hypertension 0.9587552704919261
+(155,62) hsa_circ_0001187 acute myeloid leukemia 0.0019445243093222351
+(167,21) hsa_circ_000367 hepatic steatosis 0.0005434193138545785
+(102,46) hsa_circ_0040705 systemic lupus erythematous 0.0011827341318180736
+(118,16) hsa_circ_0108308 multiple system atrophy 0.0006366722857839682
+(83,38) circ_usp9y temporal lobe epilepsy 0.0006051833173997923
+(305,55) circ_aff2 hematopoiesis 0.0
+(223,27) hsa_circ_0066922 diabetes retinopathy 0.0007078754472848157
+(271,22) hsa_circ_0070616 repeated implantation failure 0.00113996616430554
+(41,26) hsa_circ_0068942 coronary artery disease 0.0007028563092912228
+(144,62) hsa_circ_0000254 acute myeloid leukemia 0.0019445243093222351
+(184,7) hsa_circ_0106803 multiple sclerosis 0.0005592476849438406
+(274,25) hsa_circrna_029965 active tuberculosis 0.0024763665444875998

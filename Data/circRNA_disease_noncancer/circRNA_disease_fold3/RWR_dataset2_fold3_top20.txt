@@ -1,0 +1,21 @@
+(267,25) hsa_circrna_104296 active tuberculosis 0.0003275816508378751
+(317,47) hsa_circ_0000378 primary great saphenous vein varicosities 0.0003072233350859616
+(13,56) hsa_circ_0013255 irradiated hepatic stellate cell 0.00010553313139325182
+(176,43) hsa_circ6510-1 type 2 diabetes mellitus 0.0002403827882782217
+(144,62) hsa_circ_0000254 acute myeloid leukemia 0.0003153591837051874
+(279,62) circ-anapc7 acute myeloid leukemia 0.0003153591837051874
+(219,36) cznf609 lymphangiogenesis 0.0
+(191,38) circrna-0067835 temporal lobe epilepsy 0.0009027169133179111
+(281,16) hsa_circ_0038374 multiple system atrophy 0.0003345220284861407
+(44,41) hsa_circ_0063179 pulmonary tuberculosis 0.00025877110984743506
+(80,69) hsa_circrna_050898 moyamoya disease 0.00022682907880598307
+(285,0) hsa_circrna_103410 diabetic retinopathy 0.000904653139646216
+(287,3) circrna_0018168 acne 0.0003240598124784113
+(94,35) hsa_circ_102485 primary biliary cholangitis 0.0002670036546395106
+(0,51) hsa_circ_0005836 active pulmonary tuberculosis 0.00033671663660588306
+(202,46) hsa_circ_0021549 systemic lupus erythematous 0.0003023899764885168
+(119,0) hsa_circrna_404457 diabetic retinopathy 0.000904653139646216
+(90,2) hsa_circ_0029601 pre-eclampsia 0.0002663453143418926
+(85,7) hsa_circ_0035560 multiple sclerosis 0.0002870232411797687
+(199,38) circ_efcab2 temporal lobe epilepsy 0.0009027169133179111
+(87,62) hsa_circ_0008078 acute myeloid leukemia 0.0003153591837051874

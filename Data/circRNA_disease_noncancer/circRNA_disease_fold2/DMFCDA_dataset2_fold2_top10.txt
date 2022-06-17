@@ -1,0 +1,2 @@
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.0
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 0.0

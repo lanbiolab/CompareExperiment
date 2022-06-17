@@ -1,0 +1,2 @@
+(63,48) circfoxk2 pancreatic ductal adenocarcinoma 0.00025448396135390166
+(366,33) hsa_circ_0044529 laryngeal squamous cell carcinoma 0.0011915278929617204

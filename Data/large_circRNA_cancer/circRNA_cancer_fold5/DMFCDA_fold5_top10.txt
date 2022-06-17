@@ -1,0 +1,4 @@
+(74,34) circhipk3 liver cancer 0.0
+(327,20) hsa_circ_0014130 gastric cancer 0.3908053934574127
+(185,2) circvangl1 bladder cancer 0.3978714942932129
+(74,3) circhipk3 bladder urothelial carcinoma 0.04057544469833374

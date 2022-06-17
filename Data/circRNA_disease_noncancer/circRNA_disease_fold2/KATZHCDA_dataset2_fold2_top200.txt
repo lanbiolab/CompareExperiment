@@ -1,0 +1,62 @@
+(20,29) hsa_circ_0071410 liver fibrosis 3.396665304899216e-05
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 2.486432632431388e-05
+(149,64) hsa_circ_0000615 myocardial infarction 3.2232414931058884e-06
+(115,29) hsa_circ_0070963 liver fibrosis 3.396665304899216e-05
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 2.486432632431388e-05
+(108,51) hsa_circ_0023956 active pulmonary tuberculosis 5.336223095655441e-05
+(140,26) hsa_circ_0057576 coronary artery disease 0.000320808644592762
+(254,28) hsa_circ_0006801 postmenopausal osteoporosis 5.567660289816559e-05
+(53,46) hsa_circ_0003146 systemic lupus erythematous 0.00011117802634835244
+(85,7) hsa_circ_0035560 multiple sclerosis 4.897836335003376e-05
+(308,62) hsa_circ_0035381 acute myeloid leukemia 0.00031165762022137644
+(304,8) hsa_circ_0001410 major depressive disorder 3.76298843882978e-05
+(133,0) hsa_circrna_100192 diabetic retinopathy 5.8382710535079244e-05
+(148,27) hsa_circ_0019069 diabetes retinopathy 9.219820722937584e-05
+(294,41) hsa_circ_0000681 pulmonary tuberculosis 9.169440722325817e-05
+(316,37) hsa_circrna_101319 rheumatoid arthritis 0.0002013304394145962
+(306,38) circ_stk24 temporal lobe epilepsy 4.8176061362028124e-05
+(48,37) hsa_circ_0064996 rheumatoid arthritis 0.0002013304394145962
+(54,54) hsa-circ-0040809 hypertension 9.075197875499726e-05
+(136,48) hsa_circrna_003251 t2dm with depression 9.075197875499726e-05
+(58,3) circrna_0001073 acne 9.075197875499726e-05
+(292,46) hsa_circ_0012919 systemic lupus erythematous 0.00011117802634835244
+(184,7) hsa_circ_0106803 multiple sclerosis 4.897836335003376e-05
+(72,27) hsa_circ_0087206 diabetes retinopathy 9.219820722937584e-05
+(78,62) hsa_circ_0075001 acute myeloid leukemia 0.00031165762022137644
+(297,62) hsa_circ_0049657 acute myeloid leukemia 0.00031165762022137644
+(318,54) hsa_circ_0014243 hypertension 9.075197875499726e-05
+(284,38) circ_vps37c temporal lobe epilepsy 4.8176061362028124e-05
+(271,22) hsa_circ_0070616 repeated implantation failure 6.370851024985313e-05
+(90,2) hsa_circ_0029601 pre-eclampsia 6.834859810769558e-05
+(69,37) hsa_circ_0044235 rheumatoid arthritis 0.0002013304394145962
+(189,21) hsa_circ_007850 hepatic steatosis 5.146873369812966e-05
+(221,7) hsa_circ_0024892 multiple sclerosis 4.897836335003376e-05
+(139,78) circsema4b intervertebral disc degeneration 0.00012100263833999634
+(86,72) hsa_circ_0072668 facet joint osteoarthritis 0.0001815039575099945
+(165,46) has_circ_0049220 systemic lupus erythematous 0.00011117802634835244
+(240,27) hsa_circ_0026388 diabetes retinopathy 9.219820722937584e-05
+(18,26) hsa_circ_0098964 coronary artery disease 0.000320808644592762
+(100,6) cznf292 heart failure 3.8422437198460105e-05
+(218,26) hsa_circ_0082081 coronary artery disease 0.000320808644592762
+(229,25) hsa_circrna_005086 active tuberculosis 7.41852842271328e-05
+(223,27) hsa_circ_0066922 diabetes retinopathy 9.219820722937584e-05
+(168,30) circrna_11109 rheumatic heart disease 6.050131916999817e-05
+(30,38) circ_cct4 temporal lobe epilepsy 4.8176061362028124e-05
+(26,69) hsa_circ_0002078 moyamoya disease 0.0002117546170949936
+(191,38) circrna-0067835 temporal lobe epilepsy 4.8176061362028124e-05
+(175,62) hsa_circ_0058058 acute myeloid leukemia 0.00031165762022137644
+(4,69) hsa_circ_0023903 moyamoya disease 0.0002117546170949936
+(217,3) circrna_0005941 acne 9.075197875499726e-05
+(257,7) hsa_circ_0001400 multiple sclerosis 4.897836335003376e-05
+(245,43) circankrd36 type 2 diabetes mellitus 3.366645760834217e-05
+(283,69) hsa_circ_0002569 moyamoya disease 0.0002117546170949936
+(253,78) circrna_104670 intervertebral disc degeneration 0.00012100263833999634
+(222,25) hsa_circrna_091692 active tuberculosis 7.41852842271328e-05
+(10,21) has-circrna_0046367 hepatic steatosis 5.146873369812966e-05
+(150,19) circhla-c lupus nephritis 2.426898339763284e-05
+(3,24) circ_103124 crohn disease 5.146873369812966e-05
+(186,26) hsa_circ_0006323 coronary artery disease 0.000320808644592762
+(176,26) hsa_circ6510-1 coronary artery disease 0.000320808644592762
+(163,42) circrna-0044073 atherosclerosis 1.927913799881935e-05
+(182,67) circular rna wdr77 cardiovascular disease 3.3054187148809435e-05
+(79,67) circsmarca5 cardiovascular disease 3.3054187148809435e-05

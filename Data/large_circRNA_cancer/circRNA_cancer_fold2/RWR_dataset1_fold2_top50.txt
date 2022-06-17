@@ -1,0 +1,28 @@
+(309,28) hsa_circ_0008287 hypopharyngeal cancer 0.0005593987792624036
+(109,10) circpcnxl2 clear cell renal cell carcinoma 0.00024073547422211332
+(294,20) hsa_circ_0006848 gastric cancer 0.00045398514183500507
+(68,46) circgfra1 ovarian cancer 0.00015221685009272554
+(314,20) hsa_circ_0008549 gastric cancer 0.00045398514183500507
+(361,15) hsa_circ_0039569 endometrial cancer 0.0006568288205450435
+(126,2) circptpra bladder cancer 0.017846987856492354
+(197,2) cirs-6 bladder cancer 0.017846987856492354
+(283,23) hsa_circ_0005198 glioma 0.00020940533434484613
+(373,27) hsa_circ_0051443 hepatocellular carcinoma 0.00018740485048196595
+(249,45) hsa_circ_0001721 osteosarcoma 0.0002667281475859993
+(265,12) hsa_circ_0002211 colorectal cancer 0.00043195214095153954
+(262,45) hsa_circ_0002052 osteosarcoma 0.0002667281475859993
+(100,20) circ-notch1 gastric cancer 0.00045398514183500507
+(88,27) circmat2b hepatocellular carcinoma 0.00018740485048196595
+(221,12) hsa_circ_0000523 colorectal cancer 0.00043195214095153954
+(130,17) circ-rad23b esophageal cancer 0.00014642234475636284
+(171,43) circsmarca5 non-small cell lung cancer 0.00024672740535415787
+(220,6) hsa_circ_0000515 cervical cancer 0.00037744489771741847
+(379,32) hsa_circ_0057481 laryngeal cancer 0.0
+(105,49) circnup214 papillary thyroid cancer 0.0005132387467875233
+(75,27) circ-homer1 hepatocellular carcinoma 0.00018740485048196595
+(126,43) circptpra non-small cell lung cancer 0.00024672740535415787
+(439,4) hsa_circ_0103552 breast cancer 0.00021269669283839723
+(193,23) circ-znf264 glioma 0.00020940533434484613
+(202,43) hsa_circ_0000003 non-small cell lung cancer 0.00024672740535415787
+(111,20) circpdss1 gastric cancer 0.00045398514183500507
+(428,27) hsa_circ_0091570 hepatocellular carcinoma 0.00018740485048196595

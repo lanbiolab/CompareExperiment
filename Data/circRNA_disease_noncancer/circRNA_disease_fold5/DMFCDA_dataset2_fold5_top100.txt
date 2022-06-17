@@ -1,0 +1,28 @@
+(71,19) hsa_circ_0000175 lupus nephritis 0.9051750898361206
+(54,54) hsa-circ-0040809 hypertension 0.8936840295791626
+(269,10) hsa_circ_103783 leukoaraiosis 0.6351326107978821
+(75,29) hsa_circ_0054345 liver fibrosis 0.12213647365570068
+(167,21) hsa_circ_000367 hepatic steatosis 0.7701839208602905
+(2,29) hsa_circ_0061893 liver fibrosis 0.12213647365570068
+(57,21) hsa_circ_002082 hepatic steatosis 0.7701839208602905
+(146,57) hsa_circ_0068087 diabetes mellitus 0.5924493670463562
+(29,10) hsa_circ_101396 leukoaraiosis 0.6351326107978821
+(104,24) circ_102610 crohn disease 1.6748905181884766e-05
+(276,52) hsa_circ_0002161 essential hypertension 0.6397831439971924
+(209,54) hsa-circ-0008139 hypertension 0.8936840295791626
+(61,22) hsa_circrna_044353 repeated implantation failure 5.748867988586426e-05
+(227,4) circznf609 vascular endothelial dysfunction 0.0
+(21,7) hsa_circ_0000518 multiple sclerosis 0.0
+(146,43) hsa_circ_0068087 type 2 diabetes mellitus 0.9424260854721069
+(68,6) cttn1 heart failure 0.0
+(14,22) hsa_circrna_404686 repeated implantation failure 5.748867988586426e-05
+(190,49) circr-284 carotid plaque rupture 6.473064422607422e-05
+(184,7) hsa_circ_0106803 multiple sclerosis 0.0
+(72,27) hsa_circ_0087206 diabetes retinopathy 0.0013470351696014404
+(35,27) hsa_circ_0072410 diabetes retinopathy 0.0013470351696014404
+(28,27) hsa_circ_0026372 diabetes retinopathy 0.0013470351696014404
+(197,43) hsa_circrna11806-28 type 2 diabetes mellitus 0.9424260854721069
+(317,47) hsa_circ_0000378 primary great saphenous vein varicosities 8.344650268554688e-07
+(285,0) hsa_circrna_103410 diabetic retinopathy 0.9700074195861816
+(214,5) circibtk systemic lupus erythematosus 0.0
+(210,51) hsa_circ_0088452 active pulmonary tuberculosis 0.7228345274925232

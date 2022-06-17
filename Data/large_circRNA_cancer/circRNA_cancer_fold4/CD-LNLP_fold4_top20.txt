@@ -1,0 +1,7 @@
+(506,29) hsa_circrna_102116 infantile hemangioma 0.00018423698414707552
+(65,43) circ-foxo3 non-small cell lung cancer 0.004892950125503486
+(43,20) circ-dcaf6 gastric cancer 0.004981604175747077
+(26,10) circatp2b1 clear cell renal cell carcinoma 9.319602632033356e-06
+(280,28) hsa_circ_0005027 hypopharyngeal cancer 4.720221703321151e-05
+(342,23) hsa_circ_002136 glioma 0.002290461229473335
+(425,39) hsa_circ_0084043 melanoma 0.00022665745043197943

@@ -1,0 +1,13 @@
+(149,31) hsa_circ_0000615 hirschsprung disease 4.181854426860809e-05
+(115,56) hsa_circ_0070963 irradiated hepatic stellate cell 1.649443879723549e-05
+(52,19) hsa_circ_0001819 lupus nephritis 2.516606990247965e-05
+(76,25) hsa_circrna_102101 active tuberculosis 7.069036066532135e-05
+(125,62) hsa_circ_0001947 acute myeloid leukemia 0.00010098952148109675
+(282,37) circrna_104871 rheumatoid arthritis 0.0006154360175132751
+(199,38) circ_efcab2 temporal lobe epilepsy 5.8739699609577655e-05
+(50,46) hsa_circ_0000479 systemic lupus erythematous 0.00027694620788097386
+(51,78) hsa_circ_0008305 intervertebral disc degeneration 3.932827701792121e-05
+(293,23) hsa_circ_0030569 tuberculosis 3.887201994657516e-05
+(299,46) hsa_circ_0046599 systemic lupus erythematous 0.00027694620788097386
+(295,52) hsa_circ_0037909 essential hypertension 9.231540262699128e-05
+(63,8) hsa_circ_0056048 major depressive disorder 2.876138791907579e-05

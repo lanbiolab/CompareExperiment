@@ -1,0 +1,6 @@
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 4.062508568621302e-06
+(294,41) hsa_circ_0000681 pulmonary tuberculosis 0.0004121604434311349
+(250,69) hsa_circrna_101720 moyamoya disease 0.0005681450271222623
+(12,37) hsa_circ_103047 rheumatoid arthritis 0.0014857626197775572
+(145,26) hsa_circ_0051172 coronary artery disease 0.0007904208342753967
+(258,47) hsa_circ_0006427 primary great saphenous vein varicosities 0.00046656025197645

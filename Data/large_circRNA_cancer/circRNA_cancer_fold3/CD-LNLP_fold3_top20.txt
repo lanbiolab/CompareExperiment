@@ -1,0 +1,7 @@
+(63,48) circfoxk2 pancreatic ductal adenocarcinoma 0.00025448396135390166
+(366,33) hsa_circ_0044529 laryngeal squamous cell carcinoma 0.0011915278929617204
+(125,23) circptn glioma 0.005065057723424402
+(178,37) circtp63 lung squamous cell carcinoma 0.00011816442040906473
+(228,2) hsa_circ_0000799 bladder cancer 0.0001485678771188288
+(111,20) circpdss1 gastric cancer 0.00186634868952132
+(358,23) hsa_circ_0037251 glioma 0.005065057723424402

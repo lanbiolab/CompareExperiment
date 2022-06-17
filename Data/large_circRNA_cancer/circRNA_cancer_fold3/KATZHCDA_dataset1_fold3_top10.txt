@@ -1,0 +1,9 @@
+(74,3) circhipk3 bladder urothelial carcinoma 3.9245791733264925e-06
+(295,36) hsa_circ_0006916 lung cancer 0.000294654993547374
+(155,20) circrna_104433 gastric cancer 0.0005245106040369138
+(113,2) circpicalm bladder cancer 2.654178596676502e-05
+(318,12) hsa_circ_0009361 colorectal cancer 0.00010651792037533597
+(437,27) hsa_circ_0101432 hepatocellular carcinoma 0.0005622674837752129
+(190,50) circzfp57 prostate cancer 0.00018146386901244114
+(238,2) hsa_circ_0001361 bladder cancer 2.654178596676502e-05
+(79,12) circitga7 colorectal cancer 0.00010651792037533597

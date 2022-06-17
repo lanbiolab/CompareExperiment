@@ -1,0 +1,5 @@
+(176,26) hsa_circ6510-1 coronary artery disease 8.940696716308594e-08
+(1,29) hsa_circ_0072765 liver fibrosis 1.9431114196777344e-05
+(81,35) hsa_circ_000361 primary biliary cholangitis 0.0004221498966217041
+(288,17) circrna_atp9b osteoarthritis 0.8422119617462158
+(20,56) hsa_circ_0071410 irradiated hepatic stellate cell 0.0

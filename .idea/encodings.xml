@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Data/circRNA_disease_noncancer/circRNA_disease_fold1/entity_list.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data/large_circRNA_cancer/circRNA-miRNA.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data/large_circRNA_cancer/lncRNA-miRNA(from LncRNADisease).csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data/large_circRNA_cancer/miRNA-cancer.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data/large_circRNA_cancer/miRNA_list.csv" charset="GBK" />
+  </component>
+</project>

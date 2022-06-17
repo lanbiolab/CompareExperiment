@@ -1,0 +1,62 @@
+(75,29) hsa_circ_0054345 liver fibrosis 0.0003547250489692416
+(48,37) hsa_circ_0064996 rheumatoid arthritis 0.0014640522594614176
+(146,43) hsa_circ_0068087 type 2 diabetes mellitus 6.290971592104787e-05
+(13,56) hsa_circ_0013255 irradiated hepatic stellate cell 6.445038364628939e-05
+(320,35) hsa_circ_406329 primary biliary cholangitis 0.00034972939169998154
+(78,62) hsa_circ_0075001 acute myeloid leukemia 0.0025928592784969745
+(209,54) hsa-circ-0008139 hypertension 6.125785490284606e-05
+(197,43) hsa_circrna11806-28 type 2 diabetes mellitus 6.290971592104787e-05
+(125,62) hsa_circ_0001947 acute myeloid leukemia 0.0025928592784969745
+(59,27) hsa_circ_0041796 diabetes retinopathy 0.0004989209834128367
+(141,62) circpan3 acute myeloid leukemia 0.0025928592784969745
+(224,77) hsa_circ_0004277 leukemia 0.0
+(280,35) hsa_circ_087631 primary biliary cholangitis 0.00034972939169998154
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.0014640522594614176
+(115,29) hsa_circ_0070963 liver fibrosis 0.0003547250489692416
+(152,37) hsa_circ_0001859 rheumatoid arthritis 0.0014640522594614176
+(28,27) hsa_circ_0026372 diabetes retinopathy 0.0004989209834128367
+(58,3) circrna_0001073 acne 0.0014706084965010603
+(220,67) circslc8a1 cardiovascular disease 0.0012557046629364157
+(84,31) cir-ccdc66 hirschsprung disease 0.0001860964260914215
+(64,26) hsa-circrna5974-1 coronary artery disease 0.002893373494680862
+(319,46) hsa_circ_0092374 systemic lupus erythematous 0.0009886580880957734
+(168,30) circrna_11109 rheumatic heart disease 0.000280420111325208
+(311,46) hsa_circ_0049224 systemic lupus erythematous 0.0009886580880957734
+(115,56) hsa_circ_0070963 irradiated hepatic stellate cell 6.445038364628939e-05
+(206,10) hsa_circ_102470 leukoaraiosis 0.00021179471837618163
+(156,72) hsa_circ_0087537 facet joint osteoarthritis 0.0004799553612430914
+(261,78) hsa_circ_0080210 intervertebral disc degeneration 0.0021721304016382014
+(296,27) hsa_circ_0005015 diabetes retinopathy 0.0004989209834128367
+(120,47) hsa_circ_0005267 primary great saphenous vein varicosities 0.0012366685146445713
+(186,26) hsa_circ_0006323 coronary artery disease 0.002893373494680862
+(4,69) hsa_circ_0023903 moyamoya disease 0.0004993095484769643
+(26,69) hsa_circ_0002078 moyamoya disease 0.0004993095484769643
+(165,46) has_circ_0049220 systemic lupus erythematous 0.0009886580880957734
+(252,22) hsa_circrna_004183 repeated implantation failure 0.002080224737337423
+(3,24) circ_103124 crohn disease 0.0007835676697060342
+(229,25) hsa_circrna_005086 active tuberculosis 0.002245053076817805
+(111,6) cttn4 heart failure 0.00032452873928054106
+(47,9) circ_0002198 ovarian endometriosis 0.00042435786134112634
+(29,10) hsa_circ_101396 leukoaraiosis 0.00021179471837618163
+(171,26) hsa_circ_0082824 coronary artery disease 0.002893373494680862
+(259,17) hsa_circ_0045714 osteoarthritis 0.0015291703311934933
+(70,7) hsa_circ_0056731 multiple sclerosis 0.0005253930030364176
+(33,72) hsa_circ_0005127 facet joint osteoarthritis 0.0004799553612430914
+(326,27) hsa_circ_0068489 diabetes retinopathy 0.0004989209834128367
+(243,7) hsa_circ_0005402 multiple sclerosis 0.0005253930030364176
+(237,39) circrna.1030 gestational diabetes mellitus 8.523382315479762e-05
+(148,27) hsa_circ_0019069 diabetes retinopathy 0.0004989209834128367
+(179,39) circrna.20159 gestational diabetes mellitus 8.523382315479762e-05
+(132,46) hsa_circ_0008615 systemic lupus erythematous 0.0009886580880957734
+(221,7) hsa_circ_0024892 multiple sclerosis 0.0005253930030364176
+(94,35) hsa_circ_102485 primary biliary cholangitis 0.00034972939169998154
+(190,49) circr-284 carotid plaque rupture 0.0
+(315,16) hsa_circ_0054211 multiple system atrophy 0.0004002018534007427
+(299,46) hsa_circ_0046599 systemic lupus erythematous 0.0009886580880957734
+(302,41) hsa_circ_0008797 pulmonary tuberculosis 0.0004922112108915983
+(67,78) hsa_circ_0091702 intervertebral disc degeneration 0.0021721304016382014
+(313,37) hsa_circrna_092516 rheumatoid arthritis 0.0014640522594614176
+(239,41) hsa_circ_0002113 pulmonary tuberculosis 0.0004922112108915983
+(50,46) hsa_circ_0000479 systemic lupus erythematous 0.0009886580880957734
+(166,26) hsa_circ_0083357 coronary artery disease 0.002893373494680862
+(216,69) hsa_circrna_100914 moyamoya disease 0.0004993095484769643

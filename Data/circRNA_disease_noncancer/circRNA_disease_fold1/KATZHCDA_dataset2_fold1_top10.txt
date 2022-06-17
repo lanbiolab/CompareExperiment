@@ -1,0 +1,13 @@
+(75,29) hsa_circ_0054345 liver fibrosis 2.4557563662528994e-05
+(161,24) circ_103546 crohn disease 5.336223095655441e-05
+(291,51) hsa_circ_0003519 active pulmonary tuberculosis 4.421120658516884e-05
+(74,69) hsa_circrna_103343 moyamoya disease 5.501003909157589e-05
+(70,7) hsa_circ_0056731 multiple sclerosis 7.50265346840024e-05
+(301,26) hsa_circ_0089378 coronary artery disease 0.00011836222398560494
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.00016472896107297858
+(142,46) circptpn22 systemic lupus erythematous 0.0001108380793593824
+(65,17) hsa_circrna_000598 osteoarthritis 6.061975806951523e-05
+(180,26) hsa_circ_0124644 coronary artery disease 0.00011836222398560494
+(279,62) circ-anapc7 acute myeloid leukemia 0.00011223323196172715
+(44,41) hsa_circ_0063179 pulmonary tuberculosis 8.246311220573262e-05
+(144,62) hsa_circ_0000254 acute myeloid leukemia 0.00011223323196172715

@@ -1,0 +1,7 @@
+(1,29) hsa_circ_0072765 liver fibrosis 0.00020011381173514693
+(213,43) hsa_circ_0054633 type 2 diabetes mellitus 3.524101872960329e-05
+(2,56) hsa_circ_0061893 irradiated hepatic stellate cell 0.000180909005725204
+(13,29) hsa_circ_0013255 liver fibrosis 0.00020011381173514693
+(219,36) cznf609 lymphangiogenesis 0.0
+(303,37) hsa_circrna_103047 rheumatoid arthritis 0.0013146035562681857
+(242,26) hsa_circ_0113854 coronary artery disease 0.0008788763620212162

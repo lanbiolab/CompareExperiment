@@ -1,0 +1,5 @@
+(2,29) hsa_circ_0061893 liver fibrosis 0.0001371997800482498
+(50,46) hsa_circ_0000479 systemic lupus erythematous 0.0003136408876780151
+(128,26) hsa-circrna11783-2 coronary artery disease 0.00026210524332042604
+(289,22) hsa_circ_0006935 repeated implantation failure 0.0003701817739231541
+(86,72) hsa_circ_0072668 facet joint osteoarthritis 0.0002695807743618383

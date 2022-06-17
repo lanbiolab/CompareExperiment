@@ -1,0 +1,50 @@
+(225,3) circrna_0086376 acne 3.5060182213783267e-05
+(1,29) hsa_circ_0072765 liver fibrosis 3.396665304899216e-05
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 2.4417220521718264e-05
+(126,3) circrna_0084927 acne 3.5060182213783267e-05
+(314,27) hsa_circ_0087215 diabetes retinopathy 0.00010202700197696687
+(2,29) hsa_circ_0061893 liver fibrosis 3.396665304899216e-05
+(20,56) hsa_circ_0071410 irradiated hepatic stellate cell 2.4417220521718264e-05
+(105,0) hsa_circrna_406918 diabetic retinopathy 4.923168616369367e-05
+(313,37) hsa_circrna_092516 rheumatoid arthritis 0.0002013304394145962
+(266,17) hsa_circrna_101975 osteoarthritis 0.00012100263833999634
+(197,26) hsa_circrna11806-28 coronary artery disease 9.194488441571594e-05
+(280,35) hsa_circ_087631 primary biliary cholangitis 5.567660289816559e-05
+(285,0) hsa_circrna_103410 diabetic retinopathy 4.923168616369367e-05
+(41,26) hsa_circ_0068942 coronary artery disease 9.194488441571594e-05
+(45,21) hsa_circ_014724 hepatic steatosis 4.757346156984568e-05
+(42,69) hsa_circ_0050898 moyamoya disease 8.237322886125185e-05
+(60,17) hsa_circ_0005105 osteoarthritis 0.00012100263833999634
+(92,37) hsa_circ_0032683 rheumatoid arthritis 0.0002013304394145962
+(147,54) hsa-circ-0005870 hypertension 0.0104
+(260,72) hsa_circ_0063781 facet joint osteoarthritis 3.796983137726784e-05
+(156,72) hsa_circ_0087537 facet joint osteoarthritis 3.796983137726784e-05
+(242,26) hsa_circ_0113854 coronary artery disease 9.194488441571594e-05
+(198,28) hsa_circ_0028882 postmenopausal osteoporosis 4.678090875968337e-05
+(87,62) hsa_circ_0008078 acute myeloid leukemia 0.00010585045292973519
+(194,35) hsa_circ_407176 primary biliary cholangitis 5.567660289816559e-05
+(91,16) hsa_circ_0005540 multiple system atrophy 5.9277772158384326e-05
+(197,43) hsa_circrna11806-28 type 2 diabetes mellitus 2.9552151262760165e-05
+(71,19) hsa_circ_0000175 lupus nephritis 2.426898339763284e-05
+(157,2) circ_101222 pre-eclampsia 6.834859810769558e-05
+(171,26) hsa_circ_0082824 coronary artery disease 9.194488441571594e-05
+(302,41) hsa_circ_0008797 pulmonary tuberculosis 0.0002420052766799927
+(121,6) cttn2 heart failure 0.00012100263833999634
+(88,26) hsa_circ_0032970 coronary artery disease 9.194488441571594e-05
+(281,16) hsa_circ_0038374 multiple system atrophy 5.9277772158384326e-05
+(82,17) hsa_circrna_103387 osteoarthritis 0.00012100263833999634
+(296,27) hsa_circ_0005015 diabetes retinopathy 0.00010202700197696687
+(127,27) hsa_circ_0081108 diabetes retinopathy 0.00010202700197696687
+(89,30) circrna_11058 rheumatic heart disease 2.4015660583972932e-05
+(261,78) hsa_circ_0080210 intervertebral disc degeneration 4.652557852678001e-05
+(288,17) circrna_atp9b osteoarthritis 0.00012100263833999634
+(230,41) hsa_circ_0000414 pulmonary tuberculosis 0.0002420052766799927
+(138,47) hsa_circ_0003171 primary great saphenous vein varicosities 4.673221111297608e-05
+(8,26) hsa_circ_0054537 coronary artery disease 9.194488441571594e-05
+(9,37) circrna_003524 rheumatoid arthritis 0.0002013304394145962
+(106,47) circ_sdha primary great saphenous vein varicosities 4.673221111297608e-05
+(275,46) hsa_circ_0057762 systemic lupus erythematous 0.00012869302229955793
+(167,21) hsa_circ_000367 hepatic steatosis 4.757346156984568e-05
+(6,41) hsa_circ_0002908 pulmonary tuberculosis 0.0002420052766799927
+(17,54) hsa-circ-0000437 hypertension 0.0104
+(99,38) circ_ubqln1 temporal lobe epilepsy 7.50265346840024e-05

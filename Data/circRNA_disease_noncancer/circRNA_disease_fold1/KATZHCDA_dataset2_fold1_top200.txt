@@ -1,0 +1,61 @@
+(75,29) hsa_circ_0054345 liver fibrosis 2.4557563662528994e-05
+(161,24) circ_103546 crohn disease 5.336223095655441e-05
+(291,51) hsa_circ_0003519 active pulmonary tuberculosis 4.421120658516884e-05
+(74,69) hsa_circrna_103343 moyamoya disease 5.501003909157589e-05
+(70,7) hsa_circ_0056731 multiple sclerosis 7.50265346840024e-05
+(301,26) hsa_circ_0089378 coronary artery disease 0.00011836222398560494
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.00016472896107297858
+(142,46) circptpn22 systemic lupus erythematous 0.0001108380793593824
+(65,17) hsa_circrna_000598 osteoarthritis 6.061975806951523e-05
+(180,26) hsa_circ_0124644 coronary artery disease 0.00011836222398560494
+(279,62) circ-anapc7 acute myeloid leukemia 0.00011223323196172715
+(44,41) hsa_circ_0063179 pulmonary tuberculosis 8.246311220573262e-05
+(144,62) hsa_circ_0000254 acute myeloid leukemia 0.00011223323196172715
+(96,2) hsa_circ_0005442 pre-eclampsia 2.7161947637796402e-05
+(56,46) hsa_circ_0034398 systemic lupus erythematous 0.0001108380793593824
+(258,47) hsa_circ_0006427 primary great saphenous vein varicosities 4.673221111297608e-05
+(103,9) circ_0004712 ovarian endometriosis 3.6788260994944726e-05
+(55,78) hsa_circ_0041946 intervertebral disc degeneration 4.652557852678001e-05
+(172,8) hsa_circ_0089310 major depressive disorder 2.8031754214316607e-05
+(262,37) circrna_103047 rheumatoid arthritis 0.00016472896107297858
+(205,2) hsa_circ_0005218 pre-eclampsia 2.7161947637796402e-05
+(185,37) circrna_101873 rheumatoid arthritis 0.00016472896107297858
+(152,37) hsa_circ_0001859 rheumatoid arthritis 0.00016472896107297858
+(259,17) hsa_circ_0045714 osteoarthritis 6.061975806951523e-05
+(80,69) hsa_circrna_050898 moyamoya disease 5.501003909157589e-05
+(101,8) hsa_circ_0001907 major depressive disorder 2.8031754214316607e-05
+(134,38) circ_drosha temporal lobe epilepsy 7.50265346840024e-05
+(286,25) hsa_circrna_009024 active tuberculosis 7.41852842271328e-05
+(68,6) cttn1 heart failure 3.0676314607262614e-05
+(77,72) hsa_circ_0071896 facet joint osteoarthritis 5.523259982001037e-05
+(111,6) cttn4 heart failure 3.0676314607262614e-05
+(210,51) hsa_circ_0088452 active pulmonary tuberculosis 4.421120658516884e-05
+(154,37) hsa_circ_092516 rheumatoid arthritis 0.00016472896107297858
+(118,16) hsa_circ_0108308 multiple system atrophy 9.075197875499726e-05
+(269,10) hsa_circ_103783 leukoaraiosis 3.3166684955358505e-05
+(170,16) hsa_circ_0032891 multiple system atrophy 9.075197875499726e-05
+(290,0) hsa_circrna_063981 diabetic retinopathy 6.061975806951523e-05
+(209,54) hsa-circ-0008139 hypertension 0.0105
+(239,41) hsa_circ_0002113 pulmonary tuberculosis 8.246311220573262e-05
+(13,29) hsa_circ_0013255 liver fibrosis 2.4557563662528994e-05
+(5,62) hsa_circ_0000488 acute myeloid leukemia 0.00011223323196172715
+(13,56) hsa_circ_0013255 irradiated hepatic stellate cell 6.685475707054138e-05
+(250,69) hsa_circrna_101720 moyamoya disease 5.501003909157589e-05
+(174,37) circrna_092516 rheumatoid arthritis 0.00016472896107297858
+(216,69) hsa_circrna_100914 moyamoya disease 5.501003909157589e-05
+(200,30) circrna_11017 rheumatic heart disease 2.4015660583972932e-05
+(249,35) hsa_circ_052372 primary biliary cholangitis 0.0001815039575099945
+(319,46) hsa_circ_0092374 systemic lupus erythematous 0.0001108380793593824
+(19,2) circrna-0004904 pre-eclampsia 2.7161947637796402e-05
+(31,23) hsa_circ_0030045 tuberculosis 4.673221111297608e-05
+(12,37) hsa_circ_103047 rheumatoid arthritis 0.00016472896107297858
+(35,27) hsa_circ_0072410 diabetes retinopathy 0.0001195430932333693
+(312,35) hsa_circ_082319 primary biliary cholangitis 0.0001815039575099945
+(317,47) hsa_circ_0000378 primary great saphenous vein varicosities 4.673221111297608e-05
+(208,25) hsa_circrna_001937 active tuberculosis 7.41852842271328e-05
+(16,40) circrna7231 herpes simplex virus 1 infection 6.0673488676548005e-05
+(34,39) circrna.22054 gestational diabetes mellitus 1.8628502334468068e-05
+(324,39) hsa_circrna_0054633 gestational diabetes mellitus 1.8628502334468068e-05
+(235,52) hsa_circ_0037911 essential hypertension 3.3054187148809435e-05
+(276,52) hsa_circ_0002161 essential hypertension 3.3054187148809435e-05
+(298,52) hsa_circ_0126991 essential hypertension 3.3054187148809435e-05

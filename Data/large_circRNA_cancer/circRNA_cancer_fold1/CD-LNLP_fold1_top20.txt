@@ -1,0 +1,5 @@
+(255,23) hsa_circ_0001801 glioma 0.001398872709258742
+(129,43) circpvt1 non-small cell lung cancer 0.0018322927323188064
+(98,58) circnek6 thyroid cancer 0.0009319498067064018
+(384,33) hsa_circ_0059354 laryngeal squamous cell carcinoma 0.00025785296255313316
+(37,23) circ-cdc45 glioma 0.001398872709258742

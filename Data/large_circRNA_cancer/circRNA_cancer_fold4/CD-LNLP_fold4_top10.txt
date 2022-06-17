@@ -1,0 +1,2 @@
+(506,29) hsa_circrna_102116 infantile hemangioma 0.00018423698414707552
+(65,43) circ-foxo3 non-small cell lung cancer 0.004892950125503486

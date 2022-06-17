@@ -1,0 +1,19 @@
+(176,26) hsa_circ6510-1 coronary artery disease 0.0002563202612891062
+(152,37) hsa_circ_0001859 rheumatoid arthritis 0.0002844297426518336
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.00011832879255823114
+(217,3) circrna_0005941 acne 0.00031338377706271396
+(306,38) circ_stk24 temporal lobe epilepsy 0.0003116786707541737
+(95,37) hsa_circrna_100257 rheumatoid arthritis 0.0002844297426518336
+(292,46) hsa_circ_0012919 systemic lupus erythematous 0.0003017884742260906
+(148,27) hsa_circ_0019069 diabetes retinopathy 0.0002861391510763188
+(39,37) hsa_circ_0083964 rheumatoid arthritis 0.0002844297426518336
+(182,67) circular rna wdr77 cardiovascular disease 0.0005821423019173438
+(65,17) hsa_circrna_000598 osteoarthritis 0.00029733446129630097
+(294,41) hsa_circ_0000681 pulmonary tuberculosis 0.000266187634949328
+(315,16) hsa_circ_0054211 multiple system atrophy 0.0003586862942346324
+(42,69) hsa_circ_0050898 moyamoya disease 0.0002427881445152845
+(312,35) hsa_circ_082319 primary biliary cholangitis 0.000898154263033988
+(187,37) hsa_circrna_101873 rheumatoid arthritis 0.0002844297426518336
+(47,9) circ_0002198 ovarian endometriosis 0.00026998483644016954
+(48,37) hsa_circ_0064996 rheumatoid arthritis 0.0002844297426518336
+(210,51) hsa_circ_0088452 active pulmonary tuberculosis 0.0003067880855994713

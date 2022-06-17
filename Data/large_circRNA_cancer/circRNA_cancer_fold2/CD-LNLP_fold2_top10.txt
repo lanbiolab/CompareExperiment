@@ -1,0 +1,3 @@
+(219,24) hsa_circ_0000495 head and neck squamous cell carcinoma 0.00012682497600367555
+(73,12) hsa_circ_0000284 colorectal cancer 0.004163254515212609
+(65,2) circ-foxo3 bladder cancer 0.9458613278083794

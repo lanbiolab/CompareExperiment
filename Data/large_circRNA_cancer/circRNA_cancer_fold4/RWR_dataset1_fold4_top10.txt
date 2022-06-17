@@ -1,0 +1,4 @@
+(290,20) hsa_circ_0006282 gastric cancer 0.00060501196667342
+(260,27) hsa_circ_0001955 hepatocellular carcinoma 0.00019348338210659066
+(415,6) hsa_circ_0075341 cervical cancer 0.0005550822749828019
+(512,49) hsa_circrna_061346 papillary thyroid cancer 0.0005755232021093876

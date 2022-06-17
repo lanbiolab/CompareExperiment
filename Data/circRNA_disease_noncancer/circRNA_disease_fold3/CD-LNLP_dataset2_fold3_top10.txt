@@ -1,0 +1,13 @@
+(2,29) hsa_circ_0061893 liver fibrosis 0.0001401514072050545
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 8.235905600239116e-05
+(71,19) hsa_circ_0000175 lupus nephritis 2.8893696150599436e-05
+(197,26) hsa_circrna11806-28 coronary artery disease 0.0007028563092912228
+(277,27) hsa_circ_0057093 diabetes retinopathy 0.0007078754472848157
+(213,57) hsa_circ_0054633 diabetes mellitus 4.685354768714489e-06
+(217,3) circrna_0005941 acne 0.0004081821923378006
+(236,37) hsa_circ_0004712 rheumatoid arthritis 0.001431057393438109
+(114,10) hsa_circ_102533 leukoaraiosis 0.00038021555197020646
+(30,38) circ_cct4 temporal lobe epilepsy 0.0006051833173997923
+(16,40) circrna7231 herpes simplex virus 1 infection 0.0006185561362967951
+(185,37) circrna_101873 rheumatoid arthritis 0.001431057393438109
+(105,0) hsa_circrna_406918 diabetic retinopathy 0.0004992572126518854

@@ -1,0 +1,27 @@
+(1,56) hsa_circ_0072765 irradiated hepatic stellate cell 0.0
+(75,56) hsa_circ_0054345 irradiated hepatic stellate cell 0.0
+(150,19) circhla-c lupus nephritis 0.0
+(162,9) hsa_circ_0026143 ovarian endometriosis 0.0
+(148,27) hsa_circ_0019069 diabetes retinopathy 7.426738739013672e-05
+(127,27) hsa_circ_0081108 diabetes retinopathy 7.426738739013672e-05
+(155,62) hsa_circ_0001187 acute myeloid leukemia 0.0014142394065856934
+(310,27) hsa_circ_0030055 diabetes retinopathy 7.426738739013672e-05
+(195,62) hsa_circ_0017446 acute myeloid leukemia 0.0014142394065856934
+(326,27) hsa_circ_0068489 diabetes retinopathy 7.426738739013672e-05
+(308,62) hsa_circ_0035381 acute myeloid leukemia 0.0014142394065856934
+(297,62) hsa_circ_0049657 acute myeloid leukemia 0.0014142394065856934
+(240,27) hsa_circ_0026388 diabetes retinopathy 7.426738739013672e-05
+(156,72) hsa_circ_0087537 facet joint osteoarthritis 0.7543163299560547
+(170,16) hsa_circ_0032891 multiple system atrophy 0.8988375663757324
+(0,51) hsa_circ_0005836 active pulmonary tuberculosis 0.6355549097061157
+(223,27) hsa_circ_0066922 diabetes retinopathy 7.426738739013672e-05
+(101,8) hsa_circ_0001907 major depressive disorder 0.0
+(233,18) circrna_26852 metabolism-related diseases 0.0
+(238,61) cdkn2b-as1 inflammatory bowel disease 0.0
+(234,62) hsa_circ_0004136 acute myeloid leukemia 0.0014142394065856934
+(296,27) hsa_circ_0005015 diabetes retinopathy 7.426738739013672e-05
+(300,51) hsa_circ_0009128 active pulmonary tuberculosis 0.6355549097061157
+(120,47) hsa_circ_0005267 primary great saphenous vein varicosities 0.40105071663856506
+(149,31) hsa_circ_0000615 hirschsprung disease 0.0
+(271,22) hsa_circ_0070616 repeated implantation failure 5.21242618560791e-05
+(182,67) circular rna wdr77 cardiovascular disease 0.9016696810722351

@@ -1,0 +1,3 @@
+(309,28) hsa_circ_0008287 hypopharyngeal cancer 0.0005593987792624036
+(109,10) circpcnxl2 clear cell renal cell carcinoma 0.00024073547422211332
+(294,20) hsa_circ_0006848 gastric cancer 0.00045398514183500507

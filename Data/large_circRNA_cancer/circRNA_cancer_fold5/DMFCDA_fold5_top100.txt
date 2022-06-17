@@ -1,0 +1,18 @@
+(74,34) circhipk3 liver cancer 0.0
+(327,20) hsa_circ_0014130 gastric cancer 0.3908053934574127
+(185,2) circvangl1 bladder cancer 0.3978714942932129
+(74,3) circhipk3 bladder urothelial carcinoma 0.04057544469833374
+(2,18) cdr1as esophageal squamous cell cancer 0.44458600878715515
+(129,35) circpvt1 lung adenocarcinoma 8.940696716308594e-08
+(68,46) circgfra1 ovarian cancer 0.00047912911395542324
+(19,36) circ-akt3 lung cancer 2.7120113372802734e-06
+(186,18) circ-vrk1 esophageal squamous cell cancer 0.44458600878715515
+(231,6) hsa_circ_0001038 cervical cancer 0.8438230752944946
+(129,12) circpvt1 colorectal cancer 0.8024955987930298
+(78,16) circ-itch epithelial ovarian cancer 0.16692161560058594
+(2,42) cdr1as nasopharyngeal carcinoma 0.6681468486785889
+(78,45) circ-itch osteosarcoma 0.0
+(233,4) hsa_circ_0001098 breast cancer 0.1900421679019928
+(126,43) circptpra non-small cell lung cancer 0.010098278522491455
+(268,15) hsa_circ_0002577 endometrial cancer 0.0
+(392,4) hsa_circ_0061825 breast cancer 0.1900421679019928
