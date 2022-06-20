@@ -66,15 +66,36 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
   origin paper: [KATZHCDA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6299360/)
 
 
-  method path: CompareExperiment/KATZHCDA
+  method path: CompareExperiment/KATZHCDA.py
 
 + KATZCPDA: Deng et al. proposed this method. They combine the inferred circRNA-disease association matrix with origin circRNA-disease association matrix. Then the KATZ is used on the fusion matrix to predict circRNA-disease associations.
 
 
-  origin paper: [KATZCPDA](https://ieeexplore.ieee.org/document/8735932)
+  origin paper: [KATZCPDA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6610109/)
 
 
-  method path: CompareExperiment/KATZCPDA
+  method path: CompareExperiment/KATZCPDA.py
   
-+ 
++ IBNPKATZ: Zhao et al. integrated the bipartite network projection algorithm with KATZ to predict circRNA-disease associations.
 
+
+  origin paper: [IBNPKATZ](https://ieeexplore.ieee.org/document/8735932)
+
+
+  method path: CompareExperiment/IBNPKATZ.py
+
++ CD-LNLP: Zhang et al. proposed CD-LNLP based on linear neighborhood label propagation to predict circRNA-disease associations.
+
+
+  origin paper: [CD-LNLP](https://ieeexplore.ieee.org/document/8731942)
+
+
+  method path: CompareExperiment/CD-LNLP.py
+  
++ LLCDC: Ge et al. developed Locality-Constrained Linear Coding (LLCDC) to identify circRNA-disease associations.
+
+
+  origin paper: [LLCDC](https://pubmed.ncbi.nlm.nih.gov/31394170/)
+  
+  
+  method path:  CompareExperiment/LLCDC.py
