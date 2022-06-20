@@ -98,4 +98,44 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
   origin paper: [LLCDC](https://pubmed.ncbi.nlm.nih.gov/31394170/)
   
   
-  method path:  CompareExperiment/LLCDC.py
+  method path: CompareExperiment/LLCDC.py
+  
++ RWR: This is a baseline method based on Random Walk with Restart algorithm.
+
+
+  origin paper: [RWR](https://ieeexplore.ieee.org/abstract/document/9073607)
+  
+  
+  method path:  CompareExperiment/RWR.py
+
++ RWRKNN: Lei et al. combined the RWR and KNN to predict circRNA-disease associations.
+
+
+  origin paper: [RWRKNN](https://www.nature.com/articles/s41598-020-59040-0)
+  
+  
+  method path: CompareExperiment/RWRKNN.py
+  
++ iCircDA-MF: Wei et al. proposed iCircDA-MF to predict circRNA-disease association based on Matrix Factorization.
+
+
+  origin paper: [iCircDA-MF](https://pubmed.ncbi.nlm.nih.gov/32241268/#:~:text=Prediction%20of%20circRNA-disease%20associations%20based%20on%20inductive%20matrix,the%20field%20and%20follow-up%20investigations%20by%20biomedical%20researchers.)
+  
+  
+  method path: CompareExperiment/iCircDA-MF.py
+  
++ DWNN-RLS: Yan et al. proposed a computational method (DWNN-RLS) to predict circRNA-disease associations. The Kronecker product kernel based regularized least squares (RLS-Kron) is used to calculate the affinity scores of circRNA-disease associations.
+
+
+  origin paper: [DWNN-RLS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2522-6)
+  
+  
+  method path: CompareExperiment/DWNN-RLS.py
+  
++ DMFCDA: Lu et al. proposed a computational method (DMFCDA) to infer circRNA-disease associations based on neural network.
+
+
+  origin paper: [DMFCDA](https://ieeexplore.ieee.org/document/9107417)
+  
+  
+  method path: CompareExperiment/DMFCDA.py
