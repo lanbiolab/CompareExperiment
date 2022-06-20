@@ -60,4 +60,21 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
 + CompareExperiment/Data/circad/circrna_disease.h5 records the records the known circRNA-disease tuple (circRNA id, disease id).
 
 # Methods
++ KATZHCDA: This is a baseline method based on KATZ. Fan et al. proposed KATZHCDA to predict circRNA-disease association.
+
+
+  origin paper: [KATZHCDA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6299360/)
+
+
+  method path: CompareExperiment/KATZHCDA
+
++ KATZCPDA: Deng et al. proposed this method. They combine the inferred circRNA-disease association matrix with origin circRNA-disease association matrix. Then the KATZ is used on the fusion matrix to predict circRNA-disease associations.
+
+
+  origin paper: [KATZCPDA](https://ieeexplore.ieee.org/document/8735932)
+
+
+  method path: CompareExperiment/KATZCPDA
+  
 + 
+
