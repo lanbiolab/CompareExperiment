@@ -159,3 +159,4 @@ split = math.ceil(len(one_list) / 5)
 + RWRKNN: CompareExperiment/denovo/RWRKNN_circ2Traits_denovo, CompareExperiment/denovo/RWRKNN_circad_denovo, CompareExperiment/RWRKNN_denovo.py
 + iCircDA-MF: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
 + DWNN-RLS: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
++ DMFCDA: CompareExperiment/DMFCDA_circ2Traits_denovo, CompareExperiment/DMFCDA_circad_denovo, CompareExperiment/DMFCDA_circR2Disease_denovo, CompareExperiment/DMFCDA_circRNA_cancer_denovo, CompareExperiment/DMFCDA_small_circRNADisease_denovo
