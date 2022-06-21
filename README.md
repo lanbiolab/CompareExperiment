@@ -149,7 +149,7 @@ split = math.ceil(len(one_list) / 5)
   if you change '5' to '10', the 5-fold cross validation experiment will be switched to 10-fold cross validation experiment.
 
 ## de-novo experiment
-  The path of each method in de-novo experiment will be introduced. For some complicate method, we divide the dieases of these method into multiple groups to save the training time. 
+  The path of each method in de-novo experiment will be introduced. For some complicate methods, we divide the dieases of these methods into multiple groups to save the training time. 
 + KATZHCDA: CompareExperiment/denovo/KATZHCDA_circ2Traits_denovo, CompareExperiment/denovo/KATZHCDA_circad_denovo, CompareExperiment/KATZHCDA_denovo.py
 + KATZCPDA: CompareExperiment/denovo/KATZCPDA_circ2Traits_denovo, CompareExperiment/denovo/KATZCPDA_circad_denovo, CompareExperiment/KATZCPDA_denovo.py
 + IBNPKATZ: CompareExperiment/denovo/IBNPKATZ_circ2Traits_denovo, CompareExperiment/denovo/IBNPKATZ_circad_denovo, CompareExperiment/IBNPKATZ_denovo.py
@@ -160,3 +160,8 @@ split = math.ceil(len(one_list) / 5)
 + iCircDA-MF: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
 + DWNN-RLS: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
 + DMFCDA: CompareExperiment/DMFCDA_circ2Traits_denovo, CompareExperiment/DMFCDA_circad_denovo, CompareExperiment/DMFCDA_circR2Disease_denovo, CompareExperiment/DMFCDA_circRNA_cancer_denovo, CompareExperiment/DMFCDA_small_circRNADisease_denovo
+
+# Other files
+## plot_fig
+  The files in 'CompareExperiment/plot_fig' package aims to plot the experiment results (AUC, AUPR) in each dataset.
+  For example, 'plot_fig_dataset1.py' aims to plot the 5-fold experiment results (AUC, AUPR). 'plot_fig_dataset1_10fold.py' aims to plot the 10-fold experiment results (AUC, AUPR). ''
