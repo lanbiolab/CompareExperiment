@@ -139,3 +139,23 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
   
   
   method path: CompareExperiment/DMFCDA.py
+  
+# Experiment
+## 5-fold, 10-fold cross validation
+  You can find the code as follows:
+```
+split = math.ceil(len(one_list) / 5)
+```
+  if you change '5' to '10', the 5-fold cross validation experiment will be switched to 10-fold cross validation experiment.
+
+## de-novo experiment
+  The path of each method in de-novo experiment will be introduced. For some complicate method, we divide the dieases of these method into multiple groups to save the training time. 
++ KATZHCDA: CompareExperiment/denovo/KATZHCDA_circ2Traits_denovo, CompareExperiment/denovo/KATZHCDA_circad_denovo, CompareExperiment/KATZHCDA_denovo.py
++ KATZCPDA: CompareExperiment/denovo/KATZCPDA_circ2Traits_denovo, CompareExperiment/denovo/KATZCPDA_circad_denovo, CompareExperiment/KATZCPDA_denovo.py
++ IBNPKATZ: CompareExperiment/denovo/IBNPKATZ_circ2Traits_denovo, CompareExperiment/denovo/IBNPKATZ_circad_denovo, CompareExperiment/IBNPKATZ_denovo.py
++ CD-LNLP: CompareExperiment/CD-LNLP_denovo.py
++ LLCDC: CompareExperiment/denovo/LLCDC_circ2Traits_denovo, CompareExperiment/denovo/LLCDC_circad_denovo, CompareExperiment/LLCDC_denovo.py
++ RWR: CompareExperiment/denovo/RWR_circ2Traits_denovo, CompareExperiment/denovo/RWR_circad_denovo, CompareExperiment/RWR_denovo.py
++ RWRKNN: CompareExperiment/denovo/RWRKNN_circ2Traits_denovo, CompareExperiment/denovo/RWRKNN_circad_denovo, CompareExperiment/RWRKNN_denovo.py
++ iCircDA-MF: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
++ DWNN-RLS: CompareExperiment/denovo/iCircDA-MF_circ2Traits_denovo, CompareExperiment/denovo/iCircDA-MF_circad_denovo, CompareExperiment/iCircDA-MF_denovo.py
