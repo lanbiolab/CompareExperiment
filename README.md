@@ -164,4 +164,19 @@ split = math.ceil(len(one_list) / 5)
 # Other files
 ## plot_fig
   The files in 'CompareExperiment/plot_fig' package aims to plot the experiment results (AUC, AUPR) in each dataset.
-  For example, 'plot_fig_dataset1.py' aims to plot the 5-fold experiment results (AUC, AUPR). 'plot_fig_dataset1_10fold.py' aims to plot the 10-fold experiment results (AUC, AUPR). ''
+  For example, 'plot_fig_dataset1.py' aims to plot the 5-fold experiment results (AUC, AUPR). 
+  
+  
+  'plot_fig_dataset1_10fold.py' aims to plot the 10-fold experiment results (AUC, AUPR).
+  
+  
+  'plot_fig_dataset1_denovo.py' aims to plot the de-novo experiment results (AUC, AUPR).
+  
+## PlotFigure
+  '...AUC.h5' file contains the tpr and fpr data, which can be used to calculate the AUC value and plot ROC curve. Similarly, '...AUPR.h5' file saves the precision and recall data, whcih can be used to calculate the AUPR value and plot PR curve.
+  
+## FinalResultPng
+  This file records the AUC and AUPR figures in each experiment.
+
+# Questions
+If you have any problems or find mistakes in this code, please contact with me: Yi Dong: dongyi@st.gxu.edu.cn
