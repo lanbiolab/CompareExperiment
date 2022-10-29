@@ -1,5 +1,5 @@
 # CompareExperiment
-This is the code and the data of an underview paper named "Benchmarking computational methods for predicting circRNA-disease asssociations", which contains 10 methods and 5 collected datasets. The detail will be introduced after the paper is accepted.
+This is the code and the data of an underview paper named "Benchmarking computational methods for predicting circRNA-disease asssociations", which contains 14 methods and 5 collected datasets. The detail will be introduced after the paper is accepted.
 
 # Environment Requirement
 + python == 3.6.2
@@ -139,6 +139,16 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
   
   
   method path: CompareExperiment/DMFCDA.py
+  
++ GMNN2CD：Niu et al. proposed a computational method (GMNN2CD) to predict circRNA-disease associations based on variational inference and graph Markov neural networks.
+
+
+  origin paper:[GMNN2CD](https://academic.oup.com/bioinformatics/article-abstract/38/8/2246/6528308)
+
+
+  method path: CompareExperiment/GMNN2CD.py
+
++ 
   
 # Experiment
 ## 5-fold, 10-fold cross validation
