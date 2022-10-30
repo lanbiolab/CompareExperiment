@@ -1,0 +1,646 @@
+bcrc-3	1	colorectal cancer
+cbl.11	1	bladder cancer
+cbl.11	1	esophageal squamous cell cancer
+cbl.11	1	gastric cancer
+cbl.11	1	laryngeal squamous cell carcinoma
+cbl.11	1	nasopharyngeal carcinoma
+cbl.11	1	non-small cell lung cancer
+cbl.11	1	osteosarcoma
+cbl.11	1	triple-negative breast cancer
+cdr1as	1	osteosarcoma
+circ_ankib1	1	osteosarcoma
+circ_arf3	1	prostate cancer
+circ_katnal1	1	osteosarcoma
+circ_orc2	1	prostate cancer
+circ_slc19a1	1	gastric cancer
+circ_specc1	1	intrahepatic cholangiocarcinoma
+circ2174	1	breast cancer
+circ2174	1	epithelial ovarian cancer
+circ2174	1	hepatocellular carcinoma
+circ2174	1	lung cancer
+circ-abcb10	1	hepatocellular carcinoma
+circabcc2	1	lung adenocarcinoma
+circabcc2	1	prostate cancer
+circabcc4	1	non-small cell lung cancer
+circ-acaca	1	breast cancer
+circacap2	1	pancreatic cancer
+circ-adam9	1	hepatocellular carcinoma
+circ-adam9	1	liver cancer
+circadamts13	1	hepatocellular carcinoma
+circadamts14	1	cervical cancer
+circadamts14	1	non-small cell lung cancer
+circadamts14	1	triple-negative breast cancer
+circagfg1	1	lung cancer
+circagfg1	1	renal cell carcinoma
+circ-akt3	1	prostate cancer
+circamotl1l	1	acute myeloid leukemia
+circ-anapc7	1	colorectal cancer
+circanks1b	1	hepatocellular carcinoma
+circasap1	1	pancreatic ductal adenocarcinoma
+circ-ash2l	1	breast cancer
+circass1	1	clear cell renal cell carcinoma
+circatp2b1	1	cervical cancer
+circ-atp8a2	1	oral squamous cell carcinoma
+circatrnl1	1	gastric cancer
+circatxn7	1	papillary thyroid cancer
+circbach2	1	lung cancer
+circ-banp	1	non-small cell lung cancer
+circbirc6	1	breast cancer
+circbmpr2	1	hepatocellular carcinoma
+circc3p1	1	chronic lymphocytic leukemia
+circ-cbfb	1	colorectal cancer
+circcct3	1	glioma
+circ-cdc45	1	breast cancer
+circ-cdc45	1	colon cancer
+circ-cdc45	1	hepatocellular carcinoma
+circ-cdyl	1	bladder cancer
+circcep128	1	gastric cancer
+circ-cep85l	1	cervical cancer
+circclk3	1	ovarian cancer
+circ-cspp1	1	gastric cancer
+circ-dcaf6	1	breast cancer
+circ-dcaf6	1	colon cancer
+circdennd4c	1	glioma
+circ-dicer1	1	bladder cancer
+circ-dicer1	1	oral squamous cell carcinoma
+circdock1	1	hepatocellular carcinoma
+circdync1h1	1	breast cancer
+circehmt1	1	cervical cancer
+circeif4g2	1	gastric cancer
+circ-eif4g3	1	lung adenocarcinoma
+circ-eno1	1	osteosarcoma
+circ-eno1	1	ovarian cancer
+circ-eno1	1	triple-negative breast cancer
+circepsti1	1	gastric cancer
+circ-erbb2	1	glioma
+circ-ezh2	1	urothelial carcinoma of bladder
+circfam114a2	1	ovarian cancer
+circ-fam53b	1	non-small cell lung cancer
+circfarsa	1	osteosarcoma
+circfat1	1	hepatocellular carcinoma
+circfblim1	1	non-small cell lung cancer
+circfgfr1	1	non-small cell lung cancer
+circfgfr3	1	bladder cancer
+circfndc3b	1	pancreatic ductal adenocarcinoma
+circfoxk2	1	melanoma
+circfoxk2	1	non-small cell lung cancer
+circfoxk2	1	papillary thyroid cancer
+circ-foxm1	1	bladder cancer
+circ-foxm1	1	glioblastoma
+circ-foxm1	1	non-small cell lung cancer
+circ-foxo3	1	hepatocellular carcinoma
+circ-foxp1	1	bladder cancer
+circfut8	1	lung cancer
+circfut8	1	ovarian cancer
+circgfra1	1	prostate cancer
+circgucy1a2	1	gastric cancer
+circhectd1	1	clear cell renal cell carcinoma
+circhectd1	1	gastric cancer
+circhectd1	1	hepatocellular carcinoma
+circhiat1	1	acute promyelocytic leukemia
+circ-hipk2	1	colorectal cancer
+circ-hipk2	1	hepatocellular carcinoma
+circ-hipk2	1	lung cancer
+circ-hipk2	1	non-small cell lung cancer
+hsa_circ_0000284	1	bladder urothelial carcinoma
+hsa_circ_0000284	1	breast cancer
+hsa_circ_0000284	1	gallbladder cancer
+hsa_circ_0000284	1	gastric cancer
+hsa_circ_0000284	1	glioma
+hsa_circ_0000284	1	kidney clear cell carcinoma
+hsa_circ_0000284	1	liver cancer
+hsa_circ_0000284	1	lung cancer
+hsa_circ_0000284	1	nasopharyngeal carcinoma
+hsa_circ_0000284	1	oral squamous cell carcinoma
+hsa_circ_0000284	1	pancreatic cancer
+hsa_circ_0000284	1	prostate cancer
+circhipk3	1	hepatocellular carcinoma
+circ-homer1	1	pancreatic cancer
+circ-iars	1	breast cancer
+circirak3	1	bladder cancer
+circirak3	1	cervical cancer
+circirak3	1	colorectal cancer
+circirak3	1	epithelial ovarian cancer
+circirak3	1	glioma
+circirak3	1	lung cancer
+circirak3	1	osteosarcoma
+circirak3	1	ovarian cancer
+circirak3	1	papillary thyroid cancer
+circirak3	1	prostate cancer
+circirak3	1	triple-negative breast cancer
+circ-itch	1	colorectal cancer
+circitga7	1	breast cancer
+circkdm4c	1	glioma
+circkdm4c	1	triple-negative breast cancer
+circkif4a	1	t-cell lymphoblastic lymphoma
+circ-lamp1	1	hepatocellular carcinoma
+circ-lamp1	1	osteosarcoma
+circ-lamp1	1	ovarian cancer
+circlarp4	1	pancreatic cancer
+circ-ldlrad3	1	prostate cancer
+circlmtk2	1	bladder cancer
+circlpar1	1	glioma
+circlpar1	1	hepatocellular carcinoma
+circlpar1	1	lung cancer
+circman2b2	1	hepatocellular carcinoma
+circmat2b	1	gastric cancer
+circmllt10	1	glioblastoma multiforme
+circmllt10	1	osteosarcoma
+circmmp9	1	non-small cell lung cancer
+circmtdh.4	1	bladder cancer
+circmtdh.4	1	cervical cancer
+circmtdh.4	1	gastric cancer
+circmtdh.4	1	glioblastoma
+circmtdh.4	1	prostate cancer
+circmtdh.4	1	rectal cancer
+circmtdh.4	1	renal cell carcinoma
+circmto1	1	melanoma
+circmyc	1	bladder cancer
+circmyc	1	hepatocellular carcinoma
+circmylk	1	osteosarcoma
+circmyo10	1	breast cancer
+circmyo9b	1	osteosarcoma
+circnasp	1	thyroid cancer
+circnek6	1	glioma
+circnfix	1	gastric cancer
+circ-notch1	1	bladder cancer
+circnr3c1	1	gastric cancer
+circnr3c1	1	renal carcinoma
+circnrip1	1	colorectal cancer
+circ-nsd2	1	glioblastoma
+circnt5e	1	papillary thyroid cancer
+circnup214	1	non-small cell lung cancer
+circp4hb	1	lung squamous cell carcinoma
+circ-pax2	1	hepatocellular carcinoma
+circpcnx	1	clear cell renal cell carcinoma
+circpcnxl2	1	pancreatic cancer
+circ-pde8a	1	gastric cancer
+circpdss1	1	epithelial ovarian cancer
+circ-pgam1	1	bladder cancer
+circpicalm	1	colon cancer
+circpip5k1a	1	glioblastoma
+circpip5k1a	1	glioma
+circ-pitx1	1	oral squamous cell carcinoma
+circ-pkd2	1	ovarian cancer
+circplekhm3	1	triple-negative breast cancer
+circplk1	1	glioma
+circ-postn	1	esophageal squamous cell cancer
+circ-postn	1	hepatocellular carcinoma
+circ-postn	1	lung adenocarcinoma
+circ-prkci	1	bladder cancer
+circ-prkci	1	colorectal cancer
+circ-prkci	1	gastric cancer
+circ-prkci	1	hepatocellular carcinoma
+circ-prkci	1	non-small cell lung cancer
+circ-prkci	1	urothelial carcinoma of bladder
+circ-prmt5	1	renal cell carcinoma
+circprrc2a	1	gastric cancer
+circpsmc3	1	hepatocellular carcinoma
+circptgr1	1	glioma
+circptn	1	bladder cancer
+circptn	1	non-small cell lung cancer
+circptpra	1	glioma
+circ-ptprz1	1	lung adenocarcinoma
+circ-ptprz1	1	ovarian cancer
+circpum1	1	colorectal cancer
+circpum1	1	esophageal cancer
+circpum1	1	gastric cancer
+circpum1	1	lung adenocarcinoma
+circpum1	1	lung cancer
+circpum1	1	non-small cell lung cancer
+circpum1	1	oral squamous cell carcinoma
+circpum1	1	osteosarcoma
+circpvt1	1	esophageal cancer
+circpvt1	1	non-small cell lung cancer
+circ-rad23b	1	gastric cancer
+circ-rangap1	1	papillary thyroid cancer
+circrapgef5	1	hepatocellular carcinoma
+circrbm23	1	gastric cancer
+circrbms3	1	bladder cancer
+circrgnef	1	gastric cancer
+circrhobtb3	1	ovarian cancer
+circrhoc	1	pancreatic cancer
+circrhot1	1	bladder cancer
+circrip2	1	cervical cancer
+circrna_000284	1	nasopharyngeal carcinoma
+circrna_000543	1	breast cancer
+circrna_000911	1	esophageal cancer
+circrna_001275	1	gastric cancer
+circrna_001569	1	gastric cancer
+circrna_0047905	1	liver cancer
+circrna_0072309	1	malignant melanoma
+circrna_0084043	1	head and neck squamous cell carcinoma
+circrna_036186	1	non-small cell lung cancer
+circrna_100146	1	hepatic carcinoma
+circrna_100284	1	acute myeloid leukemia
+circrna_100284	1	colorectal cancer
+circrna_100284	1	laryngeal squamous cell carcinoma
+circrna_100284	1	oral squamous cell carcinoma
+circrna_100290	1	osteosarcoma
+circrna_100876	1	hepatocellular carcinoma
+circrna_101368	1	hepatocellular carcinoma
+circrna_101505	1	gastric cancer
+circrna_104433	1	hepatocellular carcinoma
+circrna_104718	1	hepatocellular carcinoma
+circrna_5692	1	cervical cancer
+circrna_8924	1	colon cancer
+circrna-acap2	1	breast cancer
+circrna-cer	1	lung adenocarcinoma
+circrnf13	1	nasopharyngeal carcinoma
+circrpms1	1	glioma
+circscaf11	1	oral squamous cell carcinoma
+circ-scarb1	1	triple-negative breast cancer
+circsept9	1	gastric cancer
+circ-sfmbt2	1	hepatocellular carcinoma
+circslc3a2	1	prostate cancer
+circslc7a6	1	bladder cancer
+circslc8a1	1	hepatocellular carcinoma
+circ-smad2	1	non-small cell lung cancer
+circsmarca5	1	glioma
+circsmo742	1	lung adenocarcinoma
+circ-sox4	1	triple-negative breast cancer
+circtada2a-e6	1	osteosarcoma
+circtcf25	1	hepatocellular carcinoma
+circ-tcf4.85	1	endometrial cancer
+circtnfrsf21	1	lung squamous cell carcinoma
+circtp63	1	hepatocellular carcinoma
+circtrim33-12	1	glioma
+circ-ttbk2	1	esophageal squamous cell cancer
+circ-ttbk2	1	lung cancer
+circubap2	1	breast cancer
+circ-ube2d2	1	bladder cancer
+circubxn7	1	bladder cancer
+circuvrag	1	bladder cancer
+circuvrag	1	non-small cell lung cancer
+circvangl1	1	esophageal squamous cell cancer
+circ-vrk1	1	ovarian cancer
+circwhsc1	1	gastric cancer
+circyap1	1	hepatocellular carcinoma
+circ-zeb1.33	1	prostate cancer
+circzfp57	1	bladder cancer
+circzfp57	1	gastric cancer
+circzfp57	1	hepatocellular carcinoma
+circzfp57	1	papillary thyroid cancer
+circzfr	1	bladder cancer
+circ-zkscan1	1	glioma
+circ-znf264	1	colorectal cancer
+circ-znf264	1	prostate cancer
+circ-znf609	1	renal carcinoma
+circ-znf652	1	gastric cancer
+cirs-133	1	bladder cancer
+cirs-6	1	lung adenocarcinoma
+cmras	1	bladder cancer
+ctfrc	1	triple-negative breast cancer
+hsa_circrna_000479	1	bladder cancer
+hsa_circ_0137439	1	non-small cell lung cancer
+hsa_circ_0000003	1	hepatocellular carcinoma
+hsa_circ_0000092	1	oral squamous cell carcinoma
+hsa_circ_0000140	1	bladder cancer
+hsa_circ_0000144	1	colon cancer
+hsa_circ_00001666	1	glioma
+hsa_circ_0000177	1	multiple myeloma
+hsa_circ_0000177	1	osteosarcoma
+hsa_circ_0000190	1	gastric cancer
+hsa_circ_0000199	1	hepatocellular carcinoma
+hsa_circ_0000204	1	colorectal cancer
+hsa_circ_0000218	1	cervical cancer
+hsa_circ_0000263	1	gastric cancer
+hsa_circ_0000267	1	gastric cancer
+hsa_circ_0000291	1	gastric cancer
+hsa_circ_0000376	1	lung squamous cell carcinoma
+hsa_circ_0000408	1	gastric cancer
+hsa_circ_0000467	1	acute myeloid leukemia
+hsa_circ_0000488	1	head and neck squamous cell carcinoma
+hsa_circ_0000495	1	cervical cancer
+hsa_circ_0000515	1	colorectal cancer
+hsa_circ_0000523	1	hepatocellular carcinoma
+hsa_circ_0000567	1	gastric cancer
+hsa_circ_0000592	1	esophageal squamous cell cancer
+hsa_circ_0000654	1	gastric cancer
+hsa_circ_0000654	1	hepatocellular carcinoma
+hsa_circ_0000673	1	non-small cell lung cancer
+hsa_circ_0000735	1	lung adenocarcinoma
+hsa_circ_0000792	1	bladder cancer
+hsa_circ_0000799	1	pancreatic cancer
+hsa_circ_0000799	1	pancreatic ductal adenocarcinoma
+hsa_circ_0000977	1	gastric cancer
+hsa_circ_0000993	1	cervical cancer
+hsa_circ_0001038	1	bladder cancer
+hsa_circ_0001073	1	breast cancer
+hsa_circ_0001098	1	osteosarcoma
+hsa_circ_0001105	1	hepatocellular carcinoma
+hsa_circ_0001178	1	prostate cancer
+hsa_circ_0001206	1	colon cancer
+hsa_circ_0001313	1	bladder cancer
+hsa_circ_0001361	1	gastric cancer
+hsa_circ_0001368	1	castration-resistant prostate cancer
+hsa_circ_0001427	1	bladder cancer
+hsa_circ_0001429	1	cervical cancer
+hsa_circ_0001445	1	triple-negative breast cancer
+hsa_circ_0001451	1	gastric cancer
+hsa_circ_0001461	1	gastric cancer
+hsa_circ_0001546	1	osteosarcoma
+hsa_circ_0001564	1	hepatocellular carcinoma
+hsa_circ_0001564	1	non-small cell lung cancer
+hsa_circ_0001649	1	gastric cancer
+hsa_circ_0001649	1	osteosarcoma
+hsa_circ_0001658	1	osteosarcoma
+hsa_circ_0001721	1	gastric cancer
+hsa_circ_0001725	1	non-small cell lung cancer
+hsa_circ_0001727	1	tongue squamous cell carcinoma
+hsa_circ_0001742	1	gastric cancer
+hsa_circ_0001772	1	osteosarcoma
+hsa_circ_0001785	1	glioblastoma
+hsa_circ_0001785	1	glioma
+hsa_circ_0001801	1	triple-negative breast cancer
+hsa_circ_0001846	1	gastric cancer
+hsa_circ_0001897	1	colorectal cancer
+hsa_circ_0001900	1	gastric cancer
+hsa_circ_0001900	1	glioblastoma
+hsa_circ_0001900	1	hepatocellular carcinoma
+hsa_circ_0001900	1	lung adenocarcinoma
+hsa_circ_0001946	1	hepatocellular carcinoma
+hsa_circ_0001955	1	oral squamous cell carcinoma
+hsa_circ_0001971	1	osteosarcoma
+hsa_circ_0002052	1	glioma
+hsa_circ_0002142	1	oral squamous cell carcinoma
+hsa_circ_0002185	1	colorectal cancer
+hsa_circ_0002211	1	lung adenocarcinoma
+hsa_circ_0002346	1	triple-negative breast cancer
+hsa_circ_0002453	1	endometrial cancer
+hsa_circ_0002577	1	hepatocellular carcinoma
+hsa_circ_0003258	1	non-small cell lung cancer
+hsa_circ_0003645	1	gastric cancer
+hsa_circ_0003855	1	lung adenocarcinoma
+hsa_circ_0003855	1	non-small cell lung cancer
+hsa_circ_0003998	1	non-small cell lung cancer
+hsa_circ_0004015	1	cervical cancer
+hsa_circ_0004214	1	ovarian cancer
+hsa_circ_0004390	1	papillary thyroid cancer
+hsa_circ_0004458	1	breast cancer
+hsa_circ_0004458	1	esophageal squamous cell cancer
+hsa_circ_0004771	1	osteosarcoma
+hsa_circ_0004846	1	gastric cancer
+hsa_circ_0004928	1	hypopharyngeal cancer
+hsa_circ_0005027	1	hepatocellular carcinoma
+hsa_circ_0005075	1	colorectal cancer
+hsa_circ_0005100	1	glioma
+hsa_circ_0005198	1	breast cancer
+hsa_circ_0005198	1	cholangiocarcinoma
+hsa_circ_0005230	1	papillary thyroid cancer
+hsa_circ_0005273	1	cervical cancer
+hsa_circ_0005576	1	colon cancer
+hsa_circ_0005963	1	esophageal cancer
+hsa_circ_0005963	1	esophageal squamous cell cancer
+hsa_circ_0006168	1	pancreatic cancer
+hsa_circ_0006215	1	gastric cancer
+hsa_circ_0006282	1	prostate cancer
+hsa_circ_0006404	1	lung adenocarcinoma
+hsa_circ_0006427	1	breast cancer
+hsa_circ_0006528	1	gastric cancer
+hsa_circ_0006848	1	lung cancer
+hsa_circ_0006916	1	esophageal squamous cell cancer
+hsa_circ_0006948	1	colorectal cancer
+hsa_circ_0006990	1	lung cancer
+hsa_circ_0007059	1	breast cancer
+hsa_circ_0007255	1	triple-negative breast cancer
+hsa_circ_0007294	1	non-small cell lung cancer
+hsa_circ_0007385	1	breast cancer
+hsa_circ_0007385	1	cervical cancer
+hsa_circ_0007385	1	colorectal cancer
+hsa_circ_0007385	1	glioma
+hsa_circ_0007385	1	pancreatic ductal adenocarcinoma
+hsa_circ_0007534	1	colon cancer
+hsa_circ_0007843	1	ovarian cancer
+hsa_circ_0007874	1	breast cancer
+hsa_circ_0008039	1	gastric cancer
+hsa_circ_0008106	1	glioma
+hsa_circ_0008225	1	gallbladder cancer
+hsa_circ_0008234	1	hypopharyngeal cancer
+hsa_circ_0008287	1	non-small cell lung cancer
+hsa_circ_0008305	1	oral squamous cell carcinoma
+hsa_circ_0008309	1	gastric cancer
+hsa_circ_0008365	1	hepatocellular carcinoma
+hsa_circ_0008365	1	nasopharyngeal carcinoma
+hsa_circ_0008450	1	gastric cancer
+hsa_circ_0008549	1	breast cancer
+hsa_circ_0008549	1	non-small cell lung cancer
+hsa_circ_0008717	1	osteosarcoma
+hsa_circ_0008792	1	renal cell carcinoma
+hsa_circ_000926	1	colorectal cancer
+hsa_circ_0009361	1	triple-negative breast cancer
+hsa_circ_0009362	1	acute myeloid leukemia
+hsa_circ_0009362	1	hepatocellular carcinoma
+hsa_circ_0009362	1	osteosarcoma
+hsa_circ_0009910	1	thyroid cancer
+hsa_circ_0011385	1	non-small cell lung cancer
+hsa_circ_0011780	1	glioma
+hsa_circ_0012129	1	mucoepidermoid carcinoma
+hsa_circ_0012342	1	non-small cell lung cancer
+hsa_circ_0012384	1	lung adenocarcinoma
+hsa_circ_0012384	1	lung cancer
+hsa_circ_0012673	1	gastric cancer
+hsa_circ_0012673	1	lung adenocarcinoma
+hsa_circ_0012673	1	non-small cell lung cancer
+hsa_circ_0014130	1	glioma
+hsa_circ_0014359	1	colorectal cancer
+hsa_circ_0014359	1	hepatocellular carcinoma
+hsa_circ_001569	1	hepatoblastoma
+hsa_circ_001569	1	hepatocellular carcinoma
+hsa_circ_0015756	1	glioma
+hsa_circ_0015758	1	pancreatic ductal adenocarcinoma
+hsa_circ_001653	1	non-small cell lung cancer
+hsa_circ_0016760	1	hepatocellular carcinoma
+hsa_circ_0016788	1	melanoma
+hsa_circ_0017247	1	breast cancer
+hsa_circ_001783	1	bladder cancer
+hsa_circ_0018069	1	clear cell renal cell carcinoma
+hsa_circ_001895	1	non-small cell lung cancer
+hsa_circ_0020123	1	lung adenocarcinoma
+hsa_circ_0020732	1	hepatocellular carcinoma
+hsa_circ_0021093	1	glioma
+hsa_circ_002136	1	laryngeal squamous cell carcinoma
+hsa_circ_0023303	1	cervical cancer
+hsa_circ_0023404	1	papillary thyroid cancer
+hsa_circ_0025033	1	lung adenocarcinoma
+hsa_circ_0025036	1	malignant melanoma
+hsa_circ_0025039	1	breast cancer
+hsa_circ_0025202	1	non-small cell lung cancer
+hsa_circ_0026134	1	colorectal cancer
+hsa_circ_0026344	1	gastric cancer
+hsa_circ_0027599	1	pancreatic ductal adenocarcinoma
+hsa_circ_0030235	1	cervical cancer
+hsa_circ_0031288	1	gastric cancer
+hsa_circ_0032627	1	cervical cancer
+hsa_circ_0033550	1	glioma
+hsa_circ_0034642	1	renal clear cell carcinoma
+hsa_circ_0035483	1	glioma
+hsa_circ_0037251	1	glioma
+hsa_circ_0037655	1	hepatocellular carcinoma
+hsa_circ_0039411	1	endometrial cancer
+hsa_circ_0039569	1	laryngeal squamous cell carcinoma
+hsa_circ_0042666	1	non-small cell lung cancer
+hsa_circ_0042666	1	osteosarcoma
+hsa_circ_0043278	1	glioblastoma
+hsa_circ_0043949	1	laryngeal squamous cell carcinoma
+hsa_circ_0044520	1	laryngeal squamous cell carcinoma
+hsa_circ_0044529	1	lung cancer
+hsa_circ_0046264	1	hepatocellular carcinoma
+hsa_circ_0046600	1	glioma
+hsa_circ_0046701	1	glioma
+hsa_circ_0047688	1	osteosarcoma
+hsa_circ_0051079	1	ovarian cancer
+hsa_circ_0051240	1	hepatocellular carcinoma
+hsa_circ_0051443	1	breast cancer
+hsa_circ_0052112	1	colorectal cancer
+hsa_circ_0053277	1	colon cancer
+hsa_circ_0055625	1	gastric cancer
+hsa_circ_0056618	1	hepatocellular carcinoma
+hsa_circ_0056836	1	laryngeal cancer
+hsa_circ_0057481	1	prostate cancer
+hsa_circ_0057558	1	bladder cancer
+hsa_circ_0058063	1	gastric cancer
+hsa_circ_0058092	1	thyroid cancer
+hsa_circ_0058124	1	laryngeal squamous cell carcinoma
+hsa_circ_0059354	1	salivary adenoid cystic carcinoma
+hsa_circ_0059655	1	thyroid cancer
+hsa_circ_0060060	1	osteosarcoma
+hsa_circ_0060428	1	gastric cancer
+hsa_circ_0060456	1	cervical cancer
+hsa_circ_0060467	1	gastric cancer
+hsa_circ_006100	1	endometrial cancer
+hsa_circ_0061140	1	breast cancer
+hsa_circ_0061825	1	glioma
+hsa_circ_0061868	1	prostate cancer
+hsa_circ_0062019	1	non-small cell lung cancer
+hsa_circ_0062389	1	colorectal cancer
+hsa_circ_0067835	1	cervical cancer
+hsa_circ_0067835	1	hepatocellular carcinoma
+hsa_circ_0067835	1	lung adenocarcinoma
+hsa_circ_0067835	1	thyroid cancer
+hsa_circ_0067934	1	gastric cancer
+hsa_circ_0067997	1	breast cancer
+hsa_circ_0068033	1	bladder cancer
+hsa_circ_0068871	1	hepatocellular carcinoma
+hsa_circ_0070269	1	cutaneous squamous cell carcinoma
+hsa_circ_0070934	1	colorectal cancer
+hsa_circ_0071589	1	bladder cancer
+hsa_circ_0071662	1	non-small cell lung cancer
+hsa_circ_0072083	1	colorectal cancer
+hsa_circ_0072088	1	breast cancer
+hsa_circ_0072088	1	non-small cell lung cancer
+hsa_circ_0072088	1	renal carcinoma
+hsa_circ_0072309	1	oral squamous cell carcinoma
+hsa_circ_0072387	1	hepatoblastoma
+hsa_circ_0072391	1	breast cancer
+hsa_circ_0072995	1	glioma
+hsa_circ_0073237	1	glioma
+hsa_circ_0074026	1	glioblastoma
+hsa_circ_0074026	1	non-small cell lung cancer
+hsa_circ_0074027	1	glioma
+hsa_circ_0074362	1	cervical cancer
+hsa_circ_0075341	1	bladder cancer
+hsa_circ_0075828	1	non-small cell lung cancer
+hsa_circ_0076305	1	hepatocellular carcinoma
+hsa_circ_0078710	1	non-small cell lung cancer
+hsa_circ_0078767	1	glioma
+hsa_circ_0079593	1	colorectal cancer
+hsa_circ_0079993	1	chronic myeloid leukemia
+hsa_circ_0080145	1	gastric cancer
+hsa_circ_0081143	1	glioma
+hsa_circ_0082374	1	melanoma
+hsa_circ_0084043	1	non-small cell lung cancer
+hsa_circ_0087862	1	glioma
+hsa_circ_0088732	1	hepatocellular carcinoma
+hsa_circ_0091570	1	liver cancer
+hsa_circ_0091579	1	hepatocellular carcinoma
+hsa_circ_0091581	1	laryngeal squamous cell carcinoma
+hsa_circ_0092012	1	gastric cancer
+hsa_circ_0092303	1	gastric cancer
+hsa_circ_0092306	1	retinoblastoma
+hsa_circ_0093996	1	oral squamous cell carcinoma
+hsa_circ_009755	1	pancreatic cancer
+hsa_circ_0099999	1	hepatocellular carcinoma
+hsa_circ_0101432	1	osteosarcoma
+hsa_circ_0102049	1	breast cancer
+hsa_circ_0103552	1	diffuse large b-cell lymphoma
+hsa_circ_0127621	1	breast cancer
+hsa_circ_0127621	1	colorectal cancer
+hsa_circ_0136666	1	colorectal cancer
+hsa_circ_0137008	1	bladder cancer
+hsa_circ_0137606	1	prostate cancer
+hsa_circ_0141940	1	tongue squamous cell carcinoma
+hsa_circ_081069	1	breast cancer
+hsa_circ_100219	1	bladder cancer
+hsa_circ_100242	1	acute myeloid leukemia
+hsa_circ_100290	1	hepatocellular carcinoma
+hsa_circ_100338	1	liver cancer
+hsa_circ_100338	1	lung cancer
+hsa_circ_100338	1	ovarian cancer
+hsa_circ_100395	1	hepatocellular carcinoma
+hsa_circ_101280	1	colorectal cancer
+hsa_circ_101555	1	hepatocellular carcinoma
+hsa_circ_103809	1	cervical cancer
+hsa_circ_103973	1	hepatocellular carcinoma
+hsa_circ_104075	1	cervical cancer
+hsa_circ_cspp1	1	pancreatic ductal adenocarcinoma
+hsa_circrna_0007334	1	breast cancer
+hsa_circrna_002178	1	prostate cancer
+hsa_circrna_008068	1	prostate cancer
+hsa_circrna_091420	1	oral squamous cell carcinoma
+hsa_circrna_100533	1	cutaneous squamous cell carcinoma
+hsa_circrna_100533	1	lung cancer
+hsa_circrna_100833	1	hepatocellular carcinoma
+hsa_circrna_101764	1	prostate cancer
+hsa_circrna_101981	1	cervical cancer
+hsa_circrna_101981	1	prostate cancer
+hsa_circrna_101996	1	bladder cancer
+hsa_circrna_102336	1	lung cancer
+hsa_circrna_103809	1	prostate cancer
+hsa_circrna_406557	1	bladder cancer
+circctdp1	1	liver cancer
+hsa_circ_0003028	1	liver cancer
+hsa_circ_0007915	1	lung cancer
+hsa_circrna_103595	1	hepatocellular carcinoma
+hsa_circrna_0007874	1	osteosarcoma
+hsa_circ_0092509	1	lung cancer
+hsa_circ_0001821	1	bladder cancer
+hsa_circ_001598	1	esophageal cancer
+hsa_circ_0000554	1	bladder cancer
+hsa_circ_0041103	1	osteosarcoma
+hsa_circ_0056288	1	glioma
+hsa_circ_0000594	1	breast cancer
+hsa_circ_0000594	1	cervical cancer
+hsa_circ_0000594	1	pancreatic cancer
+circccdc66	1	breast cancer
+hsa_circ_0001982	1	bladder cancer
+hsa_circ_0002768	1	breast cancer
+hsa_circ_0005239	1	hepatocellular carcinoma
+hsa_circ_0005986	1	hepatocellular carcinoma
+hsa_circ_000839	1	lung adenocarcinoma
+hsa_circ_0013958	1	papillary thyroid cancer
+hsa_circ_0015278	1	colorectal cancer
+hsa_circ_0020397	1	non-small cell lung cancer
+hsa_circ_0043256	1	liver cancer
+hsa_circ_0071410	1	colorectal cancer
+hsa_circrna_086376	1	colorectal cancer
+hsa_circrna_102761	1	colorectal cancer
+hsa_circrna_105055	1	acute myeloid leukemia
+circpan3	1	breast cancer
+hsa_circ_0000073	1	breast cancer
+hsa_circ_0000911	1	cutaneous squamous cell carcinoma
+hsa_circrna_100834	1	esophageal squamous cell cancer
+hsa_circ_0000337	1	gastric cancer
+circnf1	1	glioma
+circshkbp1	1	glioma
+hsa_circ_0076248	1	hepatocellular carcinoma
+hsa_circ_0103809	1	infantile hemangioma
+hsa_circrna_001654	1	infantile hemangioma
+hsa_circrna_100933	1	infantile hemangioma
+hsa_circrna_102116	1	infantile hemangioma
+hsa_circrna_104310	1	lung adenocarcinoma
+hsa_circ_0000729	1	papillary thyroid cancer
+hsa_circrna_004662	1	papillary thyroid cancer
+hsa_circrna_014213	1	papillary thyroid cancer
+hsa_circrna_046843	1	papillary thyroid cancer
+hsa_circrna_061346	1	papillary thyroid cancer
