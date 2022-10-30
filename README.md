@@ -1,5 +1,5 @@
 # CompareExperiment
-This is the code and the data of an underview paper named "Benchmarking computational methods for predicting circRNA-disease asssociations", which contains 14 methods and 5 collected datasets. The detail will be introduced after the paper is accepted.
+This is the code and the data of an underview paper named "Benchmarking computational methods for predicting circRNA-disease asssociations", which contains 14 methods and 5 collected datasets. The detail will be released after the paper is accepted.
 
 # Environment Requirement
 + python == 3.6.2
@@ -143,12 +143,42 @@ The dataset is collected from <https://clingen.igib.res.in/circad/>. There are 1
 + GMNN2CD：Niu et al. proposed a computational method (GMNN2CD) to predict circRNA-disease associations based on variational inference and graph Markov neural networks.
 
 
-  origin paper:[GMNN2CD](https://academic.oup.com/bioinformatics/article-abstract/38/8/2246/6528308)
+  origin paper: [GMNN2CD](https://academic.oup.com/bioinformatics/article-abstract/38/8/2246/6528308)
 
 
   method path: CompareExperiment/GMNN2CD.py
 
-+ 
++ IGNSCDA： Lan et al. proposed a computational method (IGNSCDA) to predict associations between circRNAs and diseases based on improved graph convolutional network and negative sampling method.
+
+
+  origin paper: [IGNSCDA](https://ieeexplore.ieee.org/abstract/document/9535297?casa_token=hnXAxnRzEhUAAAAA:94GJioB8yANzNX7wTLpDfEGyxpNyUa8gjP2fsijawRW5_aB9tb7MNNNR7DRlDcfI90we5JRKs09nuA)
+  
+  
+  method path: CompareExperiment/NGCF
+  
+  
+  This is a sub-project in CompareExperiment, you can run CompareExperiment/NGCF/NGCF.py in this project to generate the embeddings of circRNAs and diseases, then the embedding will be saved as .h5 file in CompareExperiment/NGCF/Feature/5fold (10fold or denovo). The more details about IGNSCDA: https://github.com/lanbiolab/IGNSCDA
+  
+  
++ RNMFLP: Peng et al. proposed a computational method (RNMFLP) to infer circRNA-disease associations based on robust nonnegative matrix factorization and label propagation.
+
+
+  origin paper: [RNMFLP](https://academic.oup.com/bib/article-abstract/23/5/bbac155/6582881)
+  
+  
+  method path: CompareExperiment/RNMFLP main
+  
+  
+  This is a sub-project written in matlab. We have run the project on our 5 common datasets as the origin paper recommends. The more details please refer: :https://github.com/biohnuster/RNMFLP
+
++ AE-RF: K. Deepthi et al. proposed a computational method (AE-RF) to predict circRNA-disease associations based on deep autoencoder-based classification.
+
+
+    origin paper: [AE-RF](https://link.springer.com/article/10.1007/s40291-020-00499-y)
+  
+  
+    method path: you can run CompareExperiment/AE-RF main/AE-RF.py in this project.
+  
   
 # Experiment
 ## 5-fold, 10-fold cross validation
