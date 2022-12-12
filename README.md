@@ -219,4 +219,4 @@ split = math.ceil(len(one_list) / 5)
   This file records the AUC and AUPR figures in each experiment.
 
 # Questions
-If you have any problems or find mistakes in this code, please contact with me: Yi Dong: dongyi@st.gxu.edu.cn
+If you have any problems or find mistakes in this code, please contact with me: Yi Dong: dongyi6463@163.com
