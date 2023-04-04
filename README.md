@@ -1,6 +1,10 @@
 # CompareExperiment
 Accumulating evidences demonstrate that circular RNA (circRNA) plays an important role in human diseases. Identification of circRNA-disease associations can help for the diagnosis of human diseases, while the traditional method based on biological experiments is time-consuming. In order to address the limitation, a series of computational methods have been proposed in recent years. However, few works have summarized these methods or compared the performance of them. In this paper, we divided the existing methods into three categories: information propagation, traditional machine learning and deep learning. Then, the baseline methods in each category are introduced in detail. Further, 5 different datasets are collected, and 14 representative methods of each category are selected and compared in the 5-fold, 10-fold cross-validation and the de novo experiment. In order to further evaluate the effectiveness of these methods, six common cancers are selected to compare the number of correctly identified circRNA-disease associations in the top-10, top-20, top-50, top-100 and top-200. In addition, according to the results, the observation about the robustness and the character of these methods are concluded. Finally, the future directions and challenges are discussed.
 
+Author: Wei Lan. Yi Dong. Hongyu Zhang. Chunling Li. Qingfeng Chen. Jin Liu. Jianxin Wang. Yi-Ping Phoebe Chen.
+
+Paper: https://academic.oup.com/bib/article-abstract/24/1/bbac613/6972300?redirectedFrom=fulltext
+
 # Citation
 If you want to use our codes and datasets in your research, please cite:
 ```
