@@ -1,5 +1,24 @@
 # CompareExperiment
-This is the code and the data of an underview paper named "Benchmarking computational methods for predicting circRNA-disease asssociations", which contains 14 methods and 5 collected datasets. The detail will be released after the paper is accepted.
+Accumulating evidences demonstrate that circular RNA (circRNA) plays an important role in human diseases. Identification of circRNA-disease associations can help for the diagnosis of human diseases, while the traditional method based on biological experiments is time-consuming. In order to address the limitation, a series of computational methods have been proposed in recent years. However, few works have summarized these methods or compared the performance of them. In this paper, we divided the existing methods into three categories: information propagation, traditional machine learning and deep learning. Then, the baseline methods in each category are introduced in detail. Further, 5 different datasets are collected, and 14 representative methods of each category are selected and compared in the 5-fold, 10-fold cross-validation and the de novo experiment. In order to further evaluate the effectiveness of these methods, six common cancers are selected to compare the number of correctly identified circRNA-disease associations in the top-10, top-20, top-50, top-100 and top-200. In addition, according to the results, the observation about the robustness and the character of these methods are concluded. Finally, the future directions and challenges are discussed.
+
+# Citation
+If you want to use our codes and datasets in your research, please cite:
+```
+@article{10.1093/bib/bbac613,
+    author = {Lan, Wei and Dong, Yi and Zhang, Hongyu and Li, Chunling and Chen, Qingfeng and Liu, Jin and Wang, Jianxin and Chen, Yi-Ping Phoebe},
+    title = "{Benchmarking of computational methods for predicting circRNA-disease associations}",
+    journal = {Briefings in Bioinformatics},
+    volume = {24},
+    number = {1},
+    year = {2023},
+    month = {01},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbac613},
+    url = {https://doi.org/10.1093/bib/bbac613},
+    note = {bbac613},
+    eprint = {https://academic.oup.com/bib/article-pdf/24/1/bbac613/48781859/bbac613.pdf},
+}
+```
 
 # Environment Requirement
 + python == 3.6.2
